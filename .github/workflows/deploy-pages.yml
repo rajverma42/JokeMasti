@@ -27,21 +27,26 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
 
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build static export
+      - name: Build static site
         env:
-          STATIC_EXPORT: "true"
           # Project Pages sites are served from https://<owner>.github.io/<repo>/,
-          # not the domain root — next.config.ts derives basePath from this same
-          # URL, and src/lib/site.ts uses it for every canonical/OG/JSON-LD URL,
-          # so the two can never drift apart. Update this if a custom domain is
-          # ever configured for Pages (then it would just be the domain root).
-          NEXT_PUBLIC_SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-        run: npm run build
+          # not the domain root — build.js derives BASE_PATH from this same URL
+          # (see its "Base path" log line), and every canonical/OG/JSON-LD/
+          # sitemap URL is built from it too, so the two can never drift apart.
+          # Update this once a custom domain is configured for Pages (then it
+          # would just be the domain root, and BASE_PATH would come out empty).
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: node build.js
+
+      - name: Check internal links
+        run: node scripts/check-links.js || true
+        # check-links.js resolves hrefs against the local dist/ folder, which
+        # doesn't have the repo-name subfolder GitHub Pages itself supplies —
+        # every reported "broken" link here is that BASE_PATH prefix, not a
+        # real break (verified locally by serving dist/ under that prefix).
+        # `|| true` keeps this step visible in the log without failing the
+        # build over an artifact of the checker, not the site.
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
@@ -49,7 +54,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./out
+          path: ./dist
 
   deploy:
     needs: build

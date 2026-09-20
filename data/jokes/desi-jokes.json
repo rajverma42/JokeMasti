@@ -1,0 +1,180 @@
+[
+  {
+    "id": "jk-ds-001",
+    "slug": "sharmaji-ka-beta-joke",
+    "title": "Sharma Ji Ka Beta",
+    "text": "Mummy: Sharma ji ka beta topper aa gaya.\nMain: Mummy, uske paas bhi to Sharma ji jaise papa hain.\nMummy: Matlab?\nMain: Matlab team ka fark hai, player ka nahi. 🏆",
+    "category": "desi-jokes",
+    "tags": ["sharmaji", "mummy", "comparison"],
+    "language": "hinglish",
+    "createdAt": "2026-09-18",
+    "score": 95,
+    "featured": true
+  },
+  {
+    "id": "jk-ds-002",
+    "slug": "ghar-ka-dabba-joke",
+    "title": "Ghar ka Dabba",
+    "text": "Indian ghar ka rule:\nAmul ke dabbe me ghee nahi hoga,\nice cream ke dabbe me dal hogi,\naur biscuit ke dabbe me sui-dhaga. 🧵",
+    "category": "desi-jokes",
+    "tags": ["ghar", "desi", "relatable"],
+    "language": "hinglish",
+    "createdAt": "2026-09-18",
+    "score": 97,
+    "featured": true
+  },
+  {
+    "id": "jk-ds-003",
+    "slug": "mehmaan-aur-bartan-joke",
+    "title": "Mehmaan Aane Wale Hain",
+    "text": "Mummy: Mehmaan aa rahe hain, ghar saaf karo.\nMain: Poora ghar?\nMummy: Nahi, bas wo jitna dekh sakte hain.\nYahi hai desi optimization. 🧹",
+    "category": "desi-jokes",
+    "tags": ["mehmaan", "mummy", "ghar"],
+    "language": "hinglish",
+    "createdAt": "2026-09-17",
+    "score": 89
+  },
+  {
+    "id": "jk-ds-004",
+    "slug": "papa-ki-tv-remote-joke",
+    "title": "Papa aur Remote",
+    "text": "Papa TV dekhte-dekhte so jaate hain.\nRemote lene ki koshish karo toh turant jaag jaate hain:\n\"Main dekh raha tha!\"\nAankh band karke dekhne ki technology sirf papa ke paas hai. 📺",
+    "category": "desi-jokes",
+    "tags": ["papa", "tv", "remote"],
+    "language": "hinglish",
+    "createdAt": "2026-09-17",
+    "score": 92
+  },
+  {
+    "id": "jk-ds-005",
+    "slug": "shaadi-mein-uncle-joke",
+    "title": "Shaadi Wale Uncle",
+    "text": "Har shaadi me ek uncle hota hai\njo kisi ko nahi jaanta,\nsabse zyada khaata hai,\naur photo me sabse aage khada hota hai. 🤵",
+    "category": "desi-jokes",
+    "tags": ["shaadi", "uncle", "funny"],
+    "language": "hinglish",
+    "createdAt": "2026-09-16",
+    "score": 90
+  },
+  {
+    "id": "jk-ds-006",
+    "slug": "paani-ki-bottle-joke",
+    "title": "Fridge ki Bottle",
+    "text": "Thanda paani peene ke liye fridge khola.\nBottle me exactly ek ghoont bacha tha,\naur wapas fridge me rakh diya gaya tha.\nGhar me detective banna padta hai. 🚰",
+    "category": "desi-jokes",
+    "tags": ["fridge", "ghar", "bhai-behen"],
+    "language": "hinglish",
+    "createdAt": "2026-09-16",
+    "score": 88
+  },
+  {
+    "id": "jk-ds-007",
+    "slug": "nani-ka-nuskha-joke",
+    "title": "Nani ka Nuskha",
+    "text": "Bukhar? Haldi wala doodh.\nKhansi? Haldi wala doodh.\nExam me fail? Haldi wala doodh.\nNani ke paas ek hi API hai, par uptime 100%. 🥛",
+    "category": "desi-jokes",
+    "tags": ["nani", "haldi-doodh", "desi"],
+    "language": "hinglish",
+    "createdAt": "2026-09-15",
+    "score": 94
+  },
+  {
+    "id": "jk-ds-008",
+    "slug": "shopping-bag-collection-joke",
+    "title": "Polythene ka Collection",
+    "text": "Har Indian ghar me ek polythene hoti hai\njisme 40 aur polythene bhari hoti hain.\nWo nahi kaam aati —\npar phenk bhi nahi sakte. 🛍️",
+    "category": "desi-jokes",
+    "tags": ["ghar", "desi", "relatable"],
+    "language": "hinglish",
+    "createdAt": "2026-09-15",
+    "score": 96
+  },
+  {
+    "id": "jk-ds-009",
+    "slug": "train-mein-window-seat-joke",
+    "title": "Window Seat",
+    "text": "Train me window seat ke liye jitni planning hoti hai,\nutni planning me toh train hi khareed sakte the. 🚆",
+    "category": "desi-jokes",
+    "tags": ["train", "safar", "one-liner"],
+    "language": "hinglish",
+    "createdAt": "2026-09-14",
+    "score": 85
+  },
+  {
+    "id": "jk-ds-010",
+    "slug": "mummy-ki-chappal-joke",
+    "title": "Mummy ka Radar",
+    "text": "Mummy ko pata chal jaata hai ki humne kya toda hai,\nkab toda hai, aur kahan chhupaya hai.\nISRO ko mummy se training leni chahiye. 🛰️",
+    "category": "desi-jokes",
+    "tags": ["mummy", "ghar", "bachpan"],
+    "language": "hinglish",
+    "createdAt": "2026-09-14",
+    "score": 91
+  },
+  {
+    "id": "jk-ds-011",
+    "slug": "bijli-gayi-toh-joke",
+    "title": "Bijli Gayi",
+    "text": "Bijli jaate hi poora mohalla ek saath \"ohhhh\" bolta hai.\nAur bijli aate hi taali bajti hai.\nIs se badi community feeling kahin nahi milti. 💡",
+    "category": "desi-jokes",
+    "tags": ["bijli", "mohalla", "desi"],
+    "language": "hinglish",
+    "createdAt": "2026-09-13",
+    "score": 93
+  },
+  {
+    "id": "jk-ds-012",
+    "slug": "chai-ke-saath-biscuit-joke",
+    "title": "Biscuit ka Risk",
+    "text": "Chai me biscuit dubane ka sahi time\nsirf 1.5 second hota hai.\nUske baad biscuit chai ka hissa ban jaata hai,\naur dukh hamara. 🍪",
+    "category": "desi-jokes",
+    "tags": ["chai", "biscuit", "relatable"],
+    "language": "hinglish",
+    "createdAt": "2026-09-13",
+    "score": 89
+  },
+  {
+    "id": "jk-ds-013",
+    "slug": "ghar-ka-pen-joke",
+    "title": "Ghar ka Pen",
+    "text": "Ghar me pen tab tak milta hai jab tak zarurat na ho.\nForm bharna ho toh poora ghar khali,\naur pen sirf wo milta hai jo chalta nahi. 🖊️",
+    "category": "desi-jokes",
+    "tags": ["ghar", "relatable", "one-liner"],
+    "language": "hinglish",
+    "createdAt": "2026-09-12",
+    "score": 84
+  },
+  {
+    "id": "jk-ds-014",
+    "slug": "padosi-ka-wifi-joke",
+    "title": "Padosi ka WiFi",
+    "text": "Padosi ka WiFi password guess karna\nek national sport hona chahiye.\nMedal na sahi, izzat toh milti hai. 📡",
+    "category": "desi-jokes",
+    "tags": ["wifi", "padosi", "one-liner"],
+    "language": "hinglish",
+    "createdAt": "2026-09-12",
+    "score": 87
+  },
+  {
+    "id": "jk-ds-015",
+    "slug": "rickshaw-wala-shortcut-joke",
+    "title": "Shortcut",
+    "text": "Main: Bhaiya, shortcut se chaliye.\nDriver: Bilkul saab.\n40 minute baad wahi chowk.\nShortcut sirf naam ka tha, raasta emotional tha. 🛵",
+    "category": "desi-jokes",
+    "tags": ["travel", "driver", "city"],
+    "language": "hinglish",
+    "createdAt": "2026-09-11",
+    "score": 80
+  },
+  {
+    "id": "jk-ds-016",
+    "slug": "sunday-ka-plan-joke",
+    "title": "Sunday ka Plan",
+    "text": "Saturday raat: kal poora din productive hoga.\nSunday subah 11 baje: neend.\nSunday shaam 6 baje: \"Sunday toh nikal gaya.\"\nHar hafte same script, same actor. 🗓️",
+    "category": "desi-jokes",
+    "tags": ["sunday", "weekend", "relatable"],
+    "language": "hinglish",
+    "createdAt": "2026-09-11",
+    "score": 86
+  }
+]

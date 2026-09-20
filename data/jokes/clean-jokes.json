@@ -1,0 +1,179 @@
+[
+  {
+    "id": "jk-cl-001",
+    "slug": "bacche-ka-sawaal-joke",
+    "title": "Bachche ka Sawaal",
+    "text": "Bachcha: Papa, samundar kitna gehra hai?\nPapa: Bahut gehra.\nBachcha: Aapko kaise pata?\nPapa: Beta, kuch cheezein Google bhi bata deta hai. 🌊",
+    "category": "clean-jokes",
+    "tags": ["bachche", "papa", "innocent"],
+    "language": "hinglish",
+    "createdAt": "2026-09-18",
+    "score": 88,
+    "featured": true
+  },
+  {
+    "id": "jk-cl-002",
+    "slug": "chidiya-aur-chhata-joke",
+    "title": "Chidiya ka Chhata",
+    "text": "Chidiya: Barish ho rahi hai, tumne chhata kyun nahi liya?\nDoosri chidiya: Mere paas pankh hain.\nChidiya: Aur geele ho gaye toh?\nDoosri: Toh main pankha ban jaungi. 🐦",
+    "category": "clean-jokes",
+    "tags": ["chidiya", "clean", "cute"],
+    "language": "hinglish",
+    "createdAt": "2026-09-17",
+    "score": 79
+  },
+  {
+    "id": "jk-cl-003",
+    "slug": "ghadi-ka-jawab-joke",
+    "title": "Ghadi ka Jawab",
+    "text": "Main: Ghadi, tum kabhi thakti nahi?\nGhadi: Main toh sirf ghoomti hoon.\nMain: Toh rukogi kab?\nGhadi: Jab tum time dekhna band kar doge. ⏰",
+    "category": "clean-jokes",
+    "tags": ["clean", "cute", "philosophy"],
+    "language": "hinglish",
+    "createdAt": "2026-09-17",
+    "score": 76
+  },
+  {
+    "id": "jk-cl-004",
+    "slug": "aam-ka-ghamand-joke",
+    "title": "Aam ka Ghamand",
+    "text": "Aam: Main phalon ka raja hoon.\nKela: Aur main?\nAam: Tum mantri ho.\nKela: Theek hai, par chhilka main hi phelaata hoon. 🍌",
+    "category": "clean-jokes",
+    "tags": ["fruit", "clean", "pun"],
+    "language": "hinglish",
+    "createdAt": "2026-09-16",
+    "score": 84
+  },
+  {
+    "id": "jk-cl-005",
+    "slug": "kitaab-aur-dhool-joke",
+    "title": "Kitaab ki Shikayat",
+    "text": "Kitaab: Mujhe kholo.\nStudent: Kal pakka.\nKitaab: Ye \"kal\" 3 saal se chal raha hai.\nStudent: Dekha, tum bhi toh purani nahi hui. 📗",
+    "category": "clean-jokes",
+    "tags": ["kitaab", "student", "clean"],
+    "language": "hinglish",
+    "createdAt": "2026-09-16",
+    "score": 82
+  },
+  {
+    "id": "jk-cl-006",
+    "slug": "bulb-aur-switch-joke",
+    "title": "Bulb aur Switch",
+    "text": "Bulb: Tum mujhe roz off kar dete ho.\nSwitch: Tum roz jal jaate ho.\nBulb: Ye toh mera kaam hai.\nSwitch: Aur mera mood. 💡",
+    "category": "clean-jokes",
+    "tags": ["clean", "pun", "cute"],
+    "language": "hinglish",
+    "createdAt": "2026-09-15",
+    "score": 77
+  },
+  {
+    "id": "jk-cl-007",
+    "slug": "chhota-bachcha-ganit-joke",
+    "title": "Nanhe ka Ganit",
+    "text": "Teacher: Agar tumhare paas 4 toffee hain aur main 2 le lun, toh kya bachega?\nBachcha: Ladai, ma'am. 🍬",
+    "category": "clean-jokes",
+    "tags": ["bachche", "teacher", "innocent"],
+    "language": "hinglish",
+    "createdAt": "2026-09-15",
+    "score": 93
+  },
+  {
+    "id": "jk-cl-008",
+    "slug": "chaand-aur-suraj-joke",
+    "title": "Chaand aur Suraj",
+    "text": "Chaand: Tum din me chamakte ho, main raat me.\nSuraj: Toh problem kya hai?\nChaand: Tumhe sab dekhte hain, mujhe sirf shayar. 🌙",
+    "category": "clean-jokes",
+    "tags": ["chaand", "clean", "cute"],
+    "language": "hinglish",
+    "createdAt": "2026-09-14",
+    "score": 80
+  },
+  {
+    "id": "jk-cl-009",
+    "slug": "pani-ki-bottle-baat-joke",
+    "title": "Bottle ki Baat",
+    "text": "Bottle: Main aadhi khali hoon.\nGilas: Main aadha bhara hoon.\nMain: Dono chup ho jao, mujhe pyaas lagi hai. 🥤",
+    "category": "clean-jokes",
+    "tags": ["clean", "optimist", "funny"],
+    "language": "hinglish",
+    "createdAt": "2026-09-14",
+    "score": 86
+  },
+  {
+    "id": "jk-cl-010",
+    "slug": "bachche-ka-jawab-school-joke",
+    "title": "Seedha Jawab",
+    "text": "Teacher: Batao, paani ka doosra naam kya hai?\nBachcha: Ma'am, mujhe uska pehla naam hi yaad nahi aa raha. 💧",
+    "category": "clean-jokes",
+    "tags": ["bachche", "teacher", "innocent"],
+    "language": "hinglish",
+    "createdAt": "2026-09-13",
+    "score": 90
+  },
+  {
+    "id": "jk-cl-011",
+    "slug": "chhaata-aur-barish-joke",
+    "title": "Chhata aur Barish",
+    "text": "Chhata: Tum aate ho toh mujhe kaam milta hai.\nBarish: Aur main na aaun toh?\nChhata: Toh main almari me philosopher ban jaata hoon. ☔",
+    "category": "clean-jokes",
+    "tags": ["barish", "clean", "pun"],
+    "language": "hinglish",
+    "createdAt": "2026-09-13",
+    "score": 75
+  },
+  {
+    "id": "jk-cl-012",
+    "slug": "dadaji-ki-yaad-joke",
+    "title": "Dadaji ki Yaadashth",
+    "text": "Dadaji: Mujhe sab yaad rehta hai.\nMain: Toh chashma kahan hai?\nDadaji: Aankh pe.\nMain: Aur main?\nDadaji: Tum bhi samne ho, par naam bhool gaya. 👓",
+    "category": "clean-jokes",
+    "tags": ["dadaji", "clean", "family"],
+    "language": "hinglish",
+    "createdAt": "2026-09-12",
+    "score": 87
+  },
+  {
+    "id": "jk-cl-013",
+    "slug": "kachhua-aur-khargosh-joke",
+    "title": "Kachhua aur Khargosh 2.0",
+    "text": "Khargosh: Is baar main nahi soyunga.\nKachhua: Main bhi nahi bhagunga.\nDono race me khade rahe.\nRace aaj bhi chal rahi hai. 🐢",
+    "category": "clean-jokes",
+    "tags": ["kahani", "clean", "cute"],
+    "language": "hinglish",
+    "createdAt": "2026-09-12",
+    "score": 83
+  },
+  {
+    "id": "jk-cl-014",
+    "slug": "chhote-bachche-ki-shart-joke",
+    "title": "Nanhi Shart",
+    "text": "Bachcha: Mummy, agar main sabzi kha lun toh?\nMummy: Toh chocolate milegi.\nBachcha: Aur agar na khaun?\nMummy: Toh sabzi milegi.\nBachcha: Deal ek hi hai, dikhawa do hai. 🥦",
+    "category": "clean-jokes",
+    "tags": ["bachche", "mummy", "sabzi"],
+    "language": "hinglish",
+    "createdAt": "2026-09-11",
+    "score": 89
+  },
+  {
+    "id": "jk-cl-015",
+    "slug": "pedh-ki-shikayat-joke",
+    "title": "Ped ki Shikayat",
+    "text": "Ped: Log mujhse chhaya lete hain aur dhanyavaad nahi dete.\nHawa: Main bhi chalti hoon, koi nahi kehta.\nPed: Chalo, hum dono ek hi team me hain. 🌳",
+    "category": "clean-jokes",
+    "tags": ["nature", "clean", "cute"],
+    "language": "hinglish",
+    "createdAt": "2026-09-11",
+    "score": 78
+  },
+  {
+    "id": "jk-cl-016",
+    "slug": "sapna-aur-neend-joke",
+    "title": "Sapna aur Neend",
+    "text": "Sapna: Main tabhi aata hoon jab tum sote ho.\nNeend: Aur main tabhi aati hoon jab alarm bajne wala ho.\nDono ne milkar meri subah barbaad kar di. 😪",
+    "category": "clean-jokes",
+    "tags": ["neend", "clean", "morning"],
+    "language": "hinglish",
+    "createdAt": "2026-09-10",
+    "score": 85
+  }
+]

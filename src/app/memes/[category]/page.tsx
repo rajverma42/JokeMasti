@@ -6,14 +6,9 @@ import { MemesListingSection } from "@/components/MemesListingSection";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AdSlot } from "@/components/AdSlot";
 import { buildMetadata } from "@/lib/seo";
-import type { SortOption } from "@/components/SortLinks";
 
 export function generateStaticParams() {
   return memeCategories.map((c) => ({ category: c.slug }));
-}
-
-function parseSort(value: string | string[] | undefined): SortOption {
-  return value === "latest" || value === "popular" ? value : "trending";
 }
 
 export async function generateMetadata({
@@ -33,17 +28,13 @@ export async function generateMetadata({
 
 export default async function MemeCategoryPage({
   params,
-  searchParams,
 }: {
   params: Promise<{ category: string }>;
-  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 }) {
   const { category } = await params;
   const cat = getMemeCategory(category);
   if (!cat) notFound();
 
-  const sp = await searchParams;
-  const sort = parseSort(sp.sort);
   const memes = getMemesByCategory(category);
 
   return (
@@ -57,12 +48,7 @@ export default async function MemeCategoryPage({
       <AdSlot label="Category Top" className="my-6" minHeight={100} />
 
       <div className="mt-6">
-        <MemesListingSection
-          memes={memes}
-          activeCategory={cat.slug}
-          sort={sort}
-          basePath={`/memes/${cat.slug}`}
-        />
+        <MemesListingSection memes={memes} activeCategory={cat.slug} />
       </div>
 
       <AdSlot label="Category Bottom" className="my-8" minHeight={100} />

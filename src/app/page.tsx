@@ -12,7 +12,7 @@ import { SearchBar } from "@/components/SearchBar";
 import { AdSlot } from "@/components/AdSlot";
 import { trendingKeywords } from "@/lib/search";
 import { pickOfTheDay } from "@/lib/utils";
-import { sortJokesOrMemes } from "@/components/SortLinks";
+import { sortJokesOrMemes } from "@/lib/sort";
 
 export default function Home() {
   const jokeOfDay = pickOfTheDay(getFeaturedJokes(), 0);

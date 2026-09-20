@@ -2,6 +2,7 @@ import Fuse from "fuse.js";
 import { jokes } from "@/data/jokes";
 import { memes } from "@/data/memes";
 import { allCategories } from "@/data/categories";
+import { withBasePath } from "@/lib/site";
 
 export type SearchResultType = "joke" | "meme" | "category";
 
@@ -29,7 +30,7 @@ const memeResults: SearchResult[] = memes.map((m) => ({
   title: m.title,
   subtitle: m.description,
   href: `/meme/${m.slug}`,
-  image: m.thumbnail,
+  image: withBasePath(m.thumbnail),
 }));
 
 const categoryResults: SearchResult[] = allCategories.map((c) => ({

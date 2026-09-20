@@ -13,7 +13,7 @@ import { AdSlot } from "@/components/AdSlot";
 import { JsonLd } from "@/components/JsonLd";
 import { MemeCard } from "@/components/MemeCard";
 import { buildMetadata, imageObjectJsonLd } from "@/lib/seo";
-import { siteConfig } from "@/lib/site";
+import { siteConfig, withBasePath } from "@/lib/site";
 import { formatDate } from "@/lib/utils";
 
 export function generateStaticParams() {
@@ -79,7 +79,7 @@ export default async function MemeDetailPage({
       <article className="overflow-hidden rounded-3xl border border-border bg-surface shadow-sm">
         <div className="relative bg-surface-muted">
           <Image
-            src={meme.image}
+            src={withBasePath(meme.image)}
             alt={meme.title}
             width={meme.width}
             height={meme.height}

@@ -1,9 +1,18 @@
 import { ImageResponse } from "next/og";
-import { getJokeBySlug } from "@/data/jokes";
+import { getAllJokes, getJokeBySlug } from "@/data/jokes";
 import { siteConfig } from "@/lib/site";
 
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
+// Required for `output: "export"` (see next.config.ts): image-generation
+// routes under a dynamic segment need their own generateStaticParams (they
+// don't inherit the parent page's) plus force-static, same as any other
+// metadata route.
+export const dynamic = "force-static";
+
+export function generateStaticParams() {
+  return getAllJokes().map((j) => ({ slug: j.slug }));
+}
 
 export default async function Image({ params }: { params: { slug: string } }) {
   const joke = getJokeBySlug(params.slug);

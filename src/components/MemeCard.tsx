@@ -5,7 +5,7 @@ import { LikeButton } from "@/components/LikeButton";
 import { BookmarkButton } from "@/components/BookmarkButton";
 import { ShareMenu } from "@/components/ShareMenu";
 import { MemeImageActions } from "@/components/MemeImageActions";
-import { siteConfig } from "@/lib/site";
+import { siteConfig, withBasePath } from "@/lib/site";
 
 export function MemeCard({ meme, priority = false }: { meme: Meme; priority?: boolean }) {
   const url = `${siteConfig.url}/meme/${meme.slug}`;
@@ -14,7 +14,7 @@ export function MemeCard({ meme, priority = false }: { meme: Meme; priority?: bo
     <article className="group flex break-inside-avoid flex-col overflow-hidden rounded-2xl border border-border bg-surface shadow-sm transition-shadow hover:shadow-md">
       <Link href={`/meme/${meme.slug}`} className="relative block overflow-hidden bg-surface-muted">
         <Image
-          src={meme.thumbnail}
+          src={withBasePath(meme.thumbnail)}
           alt={meme.title}
           width={360}
           height={450}

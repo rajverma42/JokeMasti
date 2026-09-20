@@ -6,14 +6,9 @@ import { JokesListingSection } from "@/components/JokesListingSection";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AdSlot } from "@/components/AdSlot";
 import { buildMetadata } from "@/lib/seo";
-import type { SortOption } from "@/components/SortLinks";
 
 export function generateStaticParams() {
   return jokeCategories.map((c) => ({ category: c.slug }));
-}
-
-function parseSort(value: string | string[] | undefined): SortOption {
-  return value === "latest" || value === "popular" ? value : "trending";
 }
 
 export async function generateMetadata({
@@ -33,17 +28,13 @@ export async function generateMetadata({
 
 export default async function JokeCategoryPage({
   params,
-  searchParams,
 }: {
   params: Promise<{ category: string }>;
-  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 }) {
   const { category } = await params;
   const cat = getJokeCategory(category);
   if (!cat) notFound();
 
-  const sp = await searchParams;
-  const sort = parseSort(sp.sort);
   const jokes = getJokesByCategory(category);
 
   return (
@@ -57,12 +48,7 @@ export default async function JokeCategoryPage({
       <AdSlot label="Category Top" className="my-6" minHeight={100} />
 
       <div className="mt-6">
-        <JokesListingSection
-          jokes={jokes}
-          activeCategory={cat.slug}
-          sort={sort}
-          basePath={`/jokes/${cat.slug}`}
-        />
+        <JokesListingSection jokes={jokes} activeCategory={cat.slug} />
       </div>
 
       <AdSlot label="Category Bottom" className="my-8" minHeight={100} />

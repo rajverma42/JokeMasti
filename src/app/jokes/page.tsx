@@ -4,7 +4,6 @@ import { JokesListingSection } from "@/components/JokesListingSection";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AdSlot } from "@/components/AdSlot";
 import { buildMetadata } from "@/lib/seo";
-import type { SortOption } from "@/components/SortLinks";
 
 export const metadata: Metadata = buildMetadata({
   title: "Hindi Jokes, Funny Jokes & More",
@@ -13,17 +12,7 @@ export const metadata: Metadata = buildMetadata({
   path: "/jokes",
 });
 
-function parseSort(value: string | string[] | undefined): SortOption {
-  return value === "latest" || value === "popular" ? value : "trending";
-}
-
-export default async function JokesPage({
-  searchParams,
-}: {
-  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
-}) {
-  const params = await searchParams;
-  const sort = parseSort(params.sort);
+export default function JokesPage() {
   const jokes = getAllJokes();
 
   return (
@@ -37,7 +26,7 @@ export default async function JokesPage({
       <AdSlot label="Category Top" className="my-6" minHeight={100} />
 
       <div className="mt-6">
-        <JokesListingSection jokes={jokes} sort={sort} basePath="/jokes" />
+        <JokesListingSection jokes={jokes} />
       </div>
 
       <AdSlot label="Category Bottom" className="my-8" minHeight={100} />

@@ -3,9 +3,20 @@
 // network-first with an offline fallback; static assets (Next's hashed
 // _next/static files, images, icons) go cache-first since their filenames
 // are content-hashed and therefore safe to cache long-term.
+//
+// Every path below is derived from self.registration.scope rather than
+// hardcoded as root-absolute ("/foo"), so this file works unmodified
+// whether the site is served from the domain root or from a repo subpath
+// (e.g. GitHub Pages' /JokeMasti/) — the scope already carries that
+// prefix, since it's the directory this script was registered from.
 const CACHE_NAME = "jokemasti-v1";
-const OFFLINE_URL = "/offline";
-const PRECACHE_URLS = [OFFLINE_URL, "/icons/icon-192.png", "/manifest.webmanifest"];
+const SCOPE_PATH = new URL(self.registration.scope).pathname; // e.g. "/" or "/JokeMasti/"
+const OFFLINE_URL = new URL("offline", self.registration.scope).pathname;
+const PRECACHE_URLS = [
+  OFFLINE_URL,
+  `${SCOPE_PATH}icons/icon-192.png`,
+  `${SCOPE_PATH}manifest.webmanifest`,
+];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -26,12 +37,13 @@ self.addEventListener("activate", (event) => {
 });
 
 function isStaticAsset(url) {
+  const path = url.pathname;
   return (
-    url.pathname.startsWith("/_next/static/") ||
-    url.pathname.startsWith("/icons/") ||
-    url.pathname.startsWith("/images/") ||
-    url.pathname.startsWith("/og/") ||
-    /\.(?:png|jpg|jpeg|webp|avif|svg|ico|woff2?)$/.test(url.pathname)
+    path.startsWith(`${SCOPE_PATH}_next/static/`) ||
+    path.startsWith(`${SCOPE_PATH}icons/`) ||
+    path.startsWith(`${SCOPE_PATH}images/`) ||
+    path.startsWith(`${SCOPE_PATH}og/`) ||
+    /\.(?:png|jpg|jpeg|webp|avif|svg|ico|woff2?)$/.test(path)
   );
 }
 

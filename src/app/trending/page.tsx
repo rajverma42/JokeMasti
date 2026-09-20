@@ -6,7 +6,7 @@ import { RankRow } from "@/components/RankRow";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AdSlot } from "@/components/AdSlot";
 import { buildMetadata } from "@/lib/seo";
-import { sortJokesOrMemes } from "@/components/SortLinks";
+import { sortJokesOrMemes } from "@/lib/sort";
 import type { Joke, Meme } from "@/types/content";
 
 export const metadata: Metadata = buildMetadata({

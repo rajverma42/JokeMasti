@@ -20,3 +20,29 @@ export const siteConfig = {
 };
 
 export type SiteConfig = typeof siteConfig;
+
+// When the app is deployed under a subpath (e.g. GitHub Pages project sites
+// serve from https://<user>.github.io/<repo>/, not the domain root),
+// next.config.ts sets Next's `basePath` to that same subpath so every
+// framework-generated URL (next/link, next/image local imports, the
+// metadata API) already includes it automatically. Derived here from the
+// same siteConfig.url so the two never drift apart.
+//
+// That automatic handling does NOT cover plain public/-folder string paths
+// used as a raw <img>/<Image> src, a fetch()/download URL, or a service
+// worker registration path — those are just strings to Next, so anywhere
+// one of those is built from data (e.g. a Meme's `image`/`thumbnail`
+// field) it must be passed through withBasePath() before use.
+export const basePath = (() => {
+  try {
+    const pathname = new URL(siteConfig.url).pathname.replace(/\/+$/, "");
+    return pathname;
+  } catch {
+    return "";
+  }
+})();
+
+export function withBasePath(path: string): string {
+  if (!basePath || !path.startsWith("/")) return path;
+  return `${basePath}${path}`;
+}

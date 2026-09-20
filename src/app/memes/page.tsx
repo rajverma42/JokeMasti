@@ -4,7 +4,6 @@ import { MemesListingSection } from "@/components/MemesListingSection";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AdSlot } from "@/components/AdSlot";
 import { buildMetadata } from "@/lib/seo";
-import type { SortOption } from "@/components/SortLinks";
 
 export const metadata: Metadata = buildMetadata({
   title: "Funny Memes, Desi Memes & Trending Memes",
@@ -13,17 +12,7 @@ export const metadata: Metadata = buildMetadata({
   path: "/memes",
 });
 
-function parseSort(value: string | string[] | undefined): SortOption {
-  return value === "latest" || value === "popular" ? value : "trending";
-}
-
-export default async function MemesPage({
-  searchParams,
-}: {
-  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
-}) {
-  const params = await searchParams;
-  const sort = parseSort(params.sort);
+export default function MemesPage() {
   const memes = getAllMemes();
 
   return (
@@ -37,7 +26,7 @@ export default async function MemesPage({
       <AdSlot label="Category Top" className="my-6" minHeight={100} />
 
       <div className="mt-6">
-        <MemesListingSection memes={memes} sort={sort} basePath="/memes" />
+        <MemesListingSection memes={memes} />
       </div>
 
       <AdSlot label="Category Bottom" className="my-8" minHeight={100} />

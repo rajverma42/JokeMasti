@@ -3,6 +3,7 @@
 import { copyImageToClipboard, downloadImage, supportsClipboardImage } from "@/lib/share";
 import { showToast } from "@/lib/toast";
 import { buildMemeFilename, cn } from "@/lib/utils";
+import { withBasePath } from "@/lib/site";
 
 interface MemeImageActionsProps {
   image: string;
@@ -13,9 +14,12 @@ interface MemeImageActionsProps {
 
 export function MemeImageActions({ image, category, id, size = "sm" }: MemeImageActionsProps) {
   const filename = buildMemeFilename(category, id);
+  // `image` is a bare public/-folder path (e.g. "/images/memes/x.webp");
+  // fetch()/download need it resolved against the deployed subpath.
+  const resolvedImage = withBasePath(image);
 
   function handleDownload() {
-    downloadImage(image, filename);
+    downloadImage(resolvedImage, filename);
     showToast("✓ Meme downloading...");
   }
 
@@ -25,7 +29,7 @@ export function MemeImageActions({ image, category, id, size = "sm" }: MemeImage
       showToast("Copy not supported here — downloaded instead");
       return;
     }
-    const ok = await copyImageToClipboard(image);
+    const ok = await copyImageToClipboard(resolvedImage);
     if (ok) {
       showToast("✓ Image copied!");
     } else {

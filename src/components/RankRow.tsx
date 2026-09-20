@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { formatCount } from "@/lib/utils";
+import { withBasePath } from "@/lib/site";
 
 interface RankRowProps {
   rank: number;
@@ -33,7 +34,7 @@ export function RankRow({ rank, href, title, subtitle, image, statLabel, statVal
         {rank}
       </span>
       {image ? (
-        <Image src={image} alt="" width={48} height={60} className="h-12 w-10 shrink-0 rounded-lg object-cover" />
+        <Image src={withBasePath(image)} alt="" width={48} height={60} className="h-12 w-10 shrink-0 rounded-lg object-cover" />
       ) : (
         <span aria-hidden="true" className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-brand-50 text-lg">
           {emoji || "😂"}

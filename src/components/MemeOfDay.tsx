@@ -3,7 +3,7 @@ import Link from "next/link";
 import type { Meme } from "@/types/content";
 import { ShareMenu } from "@/components/ShareMenu";
 import { MemeImageActions } from "@/components/MemeImageActions";
-import { siteConfig } from "@/lib/site";
+import { siteConfig, withBasePath } from "@/lib/site";
 
 export function MemeOfDay({ meme }: { meme: Meme }) {
   const url = `${siteConfig.url}/meme/${meme.slug}`;
@@ -12,7 +12,7 @@ export function MemeOfDay({ meme }: { meme: Meme }) {
     <section className="flex flex-col gap-5 rounded-3xl border border-border bg-surface p-5 shadow-sm sm:flex-row sm:items-center sm:p-6">
       <Link href={`/meme/${meme.slug}`} className="mx-auto w-40 shrink-0 sm:mx-0 sm:w-48">
         <Image
-          src={meme.thumbnail}
+          src={withBasePath(meme.thumbnail)}
           alt={meme.title}
           width={360}
           height={450}

@@ -9,7 +9,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { InstallPrompt } from "@/components/InstallPrompt";
 import { ServiceWorkerRegister } from "@/components/ServiceWorkerRegister";
 import { organizationJsonLd, websiteJsonLd } from "@/lib/seo";
-import { siteConfig } from "@/lib/site";
+import { siteConfig, withBasePath } from "@/lib/site";
 
 const poppins = Poppins({
   variable: "--font-poppins",
@@ -41,9 +41,12 @@ export const metadata: Metadata = {
   keywords: siteConfig.keywords,
   applicationName: siteConfig.name,
   manifest: "/manifest.webmanifest",
+  // Unlike openGraph/twitter images, Next does not resolve `icons` URLs
+  // against metadataBase, so relative paths here need basePath applied
+  // manually to work when the site is hosted under a repo subpath.
   icons: {
-    icon: [{ url: "/icon.png", sizes: "256x256", type: "image/png" }],
-    apple: [{ url: "/icons/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
+    icon: [{ url: withBasePath("/icon.png"), sizes: "256x256", type: "image/png" }],
+    apple: [{ url: withBasePath("/icons/apple-touch-icon.png"), sizes: "180x180", type: "image/png" }],
   },
   openGraph: {
     type: "website",

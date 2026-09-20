@@ -5,6 +5,10 @@ import { memes } from "@/data/memes";
 import { jokeCategories, memeCategories } from "@/data/categories";
 import { festivals } from "@/data/festivals";
 
+// Required for `output: "export"` (see next.config.ts) — metadata routes
+// like this one otherwise default to dynamic, which static export forbids.
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = siteConfig.url;
   const now = new Date();

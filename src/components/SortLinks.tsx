@@ -1,6 +1,6 @@
-import Link from "next/link";
+"use client";
 
-export type SortOption = "latest" | "popular" | "trending";
+import { type SortOption } from "@/lib/sort";
 
 const OPTIONS: { value: SortOption; label: string }[] = [
   { value: "trending", label: "🔥 Trending" },
@@ -8,31 +8,30 @@ const OPTIONS: { value: SortOption; label: string }[] = [
   { value: "popular", label: "❤️ Popular" },
 ];
 
-export function SortLinks({
-  basePath,
+// Plain client-side buttons rather than <Link href="?sort=..."> — sort
+// order is a display preference over data that's already loaded, not a
+// distinct page worth its own URL/crawl target, and driving it off
+// useSearchParams would force the whole jokes/memes listing behind a
+// Suspense boundary. Under the GitHub Pages static export build that
+// causes Next to ship an *empty* fallback in the prerendered HTML instead
+// of the real, indexable list (see JokesListingSection/MemesListingSection)
+// — a real SEO regression for pages meant to be crawled. Local useState in
+// the parent, changed here via onChange, keeps the full list server-
+// rendered/static while sorting still updates instantly for users with JS.
+export function SortButtons({
   active,
-  extraParams = {},
+  onChange,
 }: {
-  basePath: string;
   active: SortOption;
-  extraParams?: Record<string, string | undefined>;
+  onChange: (sort: SortOption) => void;
 }) {
-  function buildHref(sort: SortOption) {
-    const params = new URLSearchParams();
-    Object.entries(extraParams).forEach(([k, v]) => {
-      if (v) params.set(k, v);
-    });
-    if (sort !== "trending") params.set("sort", sort);
-    const qs = params.toString();
-    return qs ? `${basePath}?${qs}` : basePath;
-  }
-
   return (
     <div className="flex flex-wrap gap-2" role="group" aria-label="Sort by">
       {OPTIONS.map((opt) => (
-        <Link
+        <button
           key={opt.value}
-          href={buildHref(opt.value)}
+          type="button"
+          onClick={() => onChange(opt.value)}
           className={`rounded-full px-3.5 py-1.5 text-sm font-medium transition-colors ${
             active === opt.value
               ? "bg-brand-500 text-white"
@@ -41,26 +40,8 @@ export function SortLinks({
           aria-current={active === opt.value ? "true" : undefined}
         >
           {opt.label}
-        </Link>
+        </button>
       ))}
     </div>
-  );
-}
-
-export function sortJokesOrMemes<T extends { likes: number; shares: number; views: number; createdAt: string }>(
-  items: T[],
-  sort: SortOption
-): T[] {
-  const copy = [...items];
-  if (sort === "latest") {
-    return copy.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
-  }
-  if (sort === "popular") {
-    return copy.sort((a, b) => b.likes - a.likes);
-  }
-  // trending: weighted engagement score
-  return copy.sort(
-    (a, b) =>
-      b.likes * 2 + b.shares * 3 + b.views * 0.05 - (a.likes * 2 + a.shares * 3 + a.views * 0.05)
   );
 }

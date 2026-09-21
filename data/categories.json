@@ -1,0 +1,177 @@
+{
+  "jokes": [
+    {
+      "slug": "hindi-jokes",
+      "name": "Hindi Jokes",
+      "emoji": "😂",
+      "home": true,
+      "title": "Hindi Jokes — Latest Funny Hindi Chutkule",
+      "description": "Padhiye सबसे मज़ेदार Hindi jokes — teacher, family, chai aur daily life ke chutkule. Ek tap me copy karein aur WhatsApp par share karein.",
+      "intro": "हिंदी में लिखे हुए नए और साफ़-सुथरे चुटकुले। रोज़ाना ज़िंदगी, स्कूल, ऑफ़िस और घर-परिवार की मज़ेदार बातें — एक टैप में कॉपी करें और दोस्तों को भेजें।"
+    },
+    {
+      "slug": "funny-jokes",
+      "name": "Funny Jokes",
+      "emoji": "🤣",
+      "home": true,
+      "title": "Funny Jokes in Hinglish — Hasne Ke Liye Ready Ho Jaiye",
+      "description": "Sabse funny Hinglish jokes ka daily collection. Google Maps se lekar auto wale tak — har roz naya hasi ka dose.",
+      "intro": "Roz ki zindagi ke wo pal jinpe hum sab haste hain — Hinglish me likhe hue chhote, teekhe aur share karne layak jokes."
+    },
+    {
+      "slug": "desi-jokes",
+      "name": "Desi Jokes",
+      "emoji": "😎",
+      "home": true,
+      "title": "Desi Jokes — Ekdum Apne Ghar Wale Chutkule",
+      "description": "Desi jokes jo har Indian ghar me sach hain — polythene ka collection, Sharma ji ka beta aur mummy ka radar.",
+      "intro": "Wo desi sach jo har Indian ghar me milta hai. Padhiye, hasiye, aur family group me bhej dijiye."
+    },
+    {
+      "slug": "whatsapp-jokes",
+      "name": "WhatsApp Jokes",
+      "emoji": "💬",
+      "home": true,
+      "title": "WhatsApp Jokes — Forward Karne Layak Chutkule",
+      "description": "Short WhatsApp jokes jo copy-paste ke liye perfect hain. Blue tick, group admin aur voice note ke upar naye chutkule.",
+      "intro": "Chhote jokes jo seedha chat me paste ho jaate hain. Har joke ke neeche ek WhatsApp button hai — bas tap kijiye."
+    },
+    {
+      "slug": "love-jokes",
+      "name": "Love Jokes",
+      "emoji": "❤️",
+      "home": true,
+      "title": "Love Jokes — Couple Wale Funny Chutkule",
+      "description": "Pyaar, jhagda aur \"kuch nahi hua\" — couples ke liye clean aur funny love jokes ka collection.",
+      "intro": "Rishton ki wo chhoti-chhoti baatein jinpe har couple hasta hai. Sab clean, sab shareable."
+    },
+    {
+      "slug": "family-jokes",
+      "name": "Family Jokes",
+      "emoji": "👨‍👩‍👧",
+      "home": true,
+      "title": "Family Jokes — Ghar Parivar Ke Funny Chutkule",
+      "description": "Mummy, papa, bhai-behen aur rishtedaron par saaf-suthre family jokes. Family group me bhejne ke liye perfect.",
+      "intro": "Ghar ka har member ek character hai. Yahan unhi kirdaron par likhe hue pyaare aur funny jokes milenge."
+    },
+    {
+      "slug": "school-jokes",
+      "name": "School Jokes",
+      "emoji": "🏫",
+      "home": true,
+      "title": "School Jokes — Teacher Aur Student Ke Chutkule",
+      "description": "Teacher–student jokes, exam jokes aur last bench ki kahaniyan. Students ke liye clean school humour.",
+      "intro": "Homework, exam, last bench aur games period — school ke wo din jo yaad aate hi muskaan aa jaati hai."
+    },
+    {
+      "slug": "office-jokes",
+      "name": "Office Jokes",
+      "emoji": "💼",
+      "home": true,
+      "title": "Office Jokes — Corporate Life Ke Funny Chutkule",
+      "description": "Meeting, appraisal, deadline aur boss par funny office jokes. Team group me share karne ke liye safe aur clean.",
+      "intro": "\"Ye meeting email ho sakti thi\" wali zindagi ke jokes. Corporate dard, thoda hasi ke saath."
+    },
+    {
+      "slug": "friendship-jokes",
+      "name": "Friendship Jokes",
+      "emoji": "👫",
+      "home": true,
+      "title": "Friendship Jokes — Dosti Wale Funny Chutkule",
+      "description": "Dosti par funny jokes — bill kaun dega, plan cancel aur 10 minute wala dost. Best friend ko bhejiye.",
+      "intro": "Dosti ke wo kisse jo har group me hote hain. Apne us dost ko bhejiye jo abhi bhi \"10 minute\" me aata hai."
+    },
+    {
+      "slug": "clean-jokes",
+      "name": "Clean Jokes",
+      "emoji": "😜",
+      "home": true,
+      "title": "Clean Jokes — Family Friendly Adult-Free Chutkule",
+      "description": "100% clean, adult-free jokes jo bachchon aur family ke saath padhe ja sakte hain. Innocent humour ka collection.",
+      "intro": "Poori tarah saaf-suthre jokes — bachchon ke saath padhiye, family group me bhejiye, kahin bhi share kijiye."
+    },
+    {
+      "slug": "english-jokes",
+      "name": "English Jokes",
+      "emoji": "🇬🇧",
+      "home": false,
+      "title": "English Jokes — Short & Funny One Liners",
+      "description": "Short English jokes and funny one-liners about work, phones, traffic and everyday life. Easy to copy and share.",
+      "intro": "Short, clean English jokes and one-liners — perfect for a quick laugh or a status update."
+    },
+    {
+      "slug": "festival-jokes",
+      "name": "Festival Jokes",
+      "emoji": "🎉",
+      "home": false,
+      "title": "Festival Jokes — Diwali, Holi, Rakhi Aur Aur Bhi",
+      "description": "Har tyohaar ke liye funny jokes — Diwali, Holi, Raksha Bandhan, New Year, Eid aur bahut kuch.",
+      "intro": "Har tyohaar ka apna mazaa aur apna mazaak. Neeche se apna festival chuniye."
+    }
+  ],
+  "memes": [
+    {
+      "slug": "desi-memes",
+      "name": "Desi Memes",
+      "emoji": "🇮🇳",
+      "home": true,
+      "title": "Desi Memes — Indian Life Ke Funny Memes",
+      "description": "Original desi memes about Indian homes, chai, traffic and family life. Free download, no login needed.",
+      "intro": "Ghar, mohalla aur desi zindagi par original memes. Download free, share instant."
+    },
+    {
+      "slug": "trending-memes",
+      "name": "Trending Memes",
+      "emoji": "🔥",
+      "home": true,
+      "title": "Trending Memes — Abhi Ke Sabse Popular Memes",
+      "description": "Ab ke trending memes ka curated collection. Editor ke chune hue, roz refresh hone wale memes.",
+      "intro": "Hamari team ke chune hue abhi ke sabse mazedaar memes. Har roz nayi list."
+    },
+    {
+      "slug": "animal-memes",
+      "name": "Animal Memes",
+      "emoji": "🐶",
+      "home": true,
+      "title": "Animal Memes — Cute Aur Funny Jaanwar Memes",
+      "description": "Funny animal memes — dogs, cats, cows and crows with desi captions. Clean, cute and shareable.",
+      "intro": "Jaanwaron ki duniya me insaani drama. Sab clean, sab cute."
+    },
+    {
+      "slug": "festival-memes",
+      "name": "Festival Memes",
+      "emoji": "🎉",
+      "home": true,
+      "title": "Festival Memes — Diwali, Holi Aur Tyohaar Memes",
+      "description": "Festival memes for Diwali, Holi, Rakhi, New Year and more. Download free and share on WhatsApp.",
+      "intro": "Har tyohaar ke liye ready-to-share memes. Bas download kijiye aur bhejiye."
+    },
+    {
+      "slug": "office-memes",
+      "name": "Office Memes",
+      "emoji": "💼",
+      "home": false,
+      "title": "Office Memes — Work Life Ke Funny Memes",
+      "description": "Relatable office memes about meetings, Mondays, deadlines and appraisals. Safe for work.",
+      "intro": "Meeting, Monday aur deadline — office ki poori kahani memes me."
+    },
+    {
+      "slug": "school-memes",
+      "name": "School & Student Memes",
+      "emoji": "🏫",
+      "home": false,
+      "title": "School Memes — Student Life Ke Funny Memes",
+      "description": "Student memes about exams, homework, attendance and the last bench. Clean and school-safe.",
+      "intro": "Exam, homework aur last bench — student life ke sabse sach memes."
+    },
+    {
+      "slug": "funny-images",
+      "name": "Funny Images",
+      "emoji": "🖼️",
+      "home": false,
+      "title": "Funny Images — Hasne Wali Tasveerein Free Download",
+      "description": "Funny images and picture quotes you can download free and share on WhatsApp or Instagram. No sign-up.",
+      "intro": "Ek nazar me hasi — download kijiye aur kahin bhi share kijiye. Koi login nahi."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+[
+  {
+    "id": "jk-hi-001",
+    "slug": "mummy-ka-wifi-joke",
+    "title": "मम्मी का WiFi",
+    "text": "मम्मी: बेटा, थोड़ी पढ़ाई कर ले।\nबेटा: मम्मी, नेटवर्क नहीं आ रहा।\nमम्मी: किताब में नेटवर्क की क्या ज़रूरत?\nबेटा: वही तो असली दुख है। 😂",
+    "category": "hindi-jokes",
+    "tags": ["mummy", "wifi", "padhai", "student"],
+    "language": "hi",
+    "createdAt": "2026-09-18",
+    "score": 96,
+    "featured": true
+  },
+  {
+    "id": "jk-hi-002",
+    "slug": "chai-mein-cheeni-joke",
+    "title": "चाय में चीनी",
+    "text": "ग्राहक: भैया, चाय में चीनी कम है।\nदुकानदार: साहब, चीनी महँगी हो गई है।\nग्राहक: तो?\nदुकानदार: मिठास आपकी बातों से मिला लीजिए। ☕",
+    "category": "hindi-jokes",
+    "tags": ["chai", "tapri", "mehngai"],
+    "language": "hi",
+    "createdAt": "2026-09-17",
+    "score": 88
+  },
+  {
+    "id": "jk-hi-003",
+    "slug": "bhoolne-ki-bimari-joke",
+    "title": "भूलने की बीमारी",
+    "text": "मरीज़: डॉक्टर साहब, मुझे भूलने की बीमारी है।\nडॉक्टर: कब से है?\nमरीज़: कब से क्या? 🤔",
+    "category": "hindi-jokes",
+    "tags": ["doctor", "hospital", "one-liner"],
+    "language": "hi",
+    "createdAt": "2026-09-17",
+    "score": 91
+  },
+  {
+    "id": "jk-hi-004",
+    "slug": "gym-ka-plan-joke",
+    "title": "जिम वाला प्लान",
+    "text": "दोस्त: तूने जिम जॉइन किया?\nमैं: हाँ, पूरे तीन महीने का।\nदोस्त: गया कितनी बार?\nमैं: अभी सोच रहा हूँ — और सोचना भी दिमाग़ की एक्सरसाइज़ ही है। 💪",
+    "category": "hindi-jokes",
+    "tags": ["gym", "fitness", "dost"],
+    "language": "hi",
+    "createdAt": "2026-09-16",
+    "score": 84
+  },
+  {
+    "id": "jk-hi-005",
+    "slug": "bijli-ka-bill-joke",
+    "title": "बिजली का बिल",
+    "text": "पापा: इस महीने बिजली का बिल इतना ज़्यादा क्यों आया?\nबेटा: पापा, पढ़ाई देर रात तक चलती है।\nपापा: अच्छा? कौन सी किताब चार्जर से चलती है? ⚡",
+    "category": "hindi-jokes",
+    "tags": ["papa", "bill", "padhai"],
+    "language": "hi",
+    "createdAt": "2026-09-16",
+    "score": 87
+  },
+  {
+    "id": "jk-hi-006",
+    "slug": "online-class-camera-joke",
+    "title": "ऑनलाइन क्लास",
+    "text": "टीचर: कैमरा ऑन करो।\nस्टूडेंट: मैम, कैमरा खराब है।\nटीचर: तो कल सेल्फी किससे डाली थी?\nस्टूडेंट: वो… पड़ोसी का फ़ोन था मैम। 📱",
+    "category": "hindi-jokes",
+    "tags": ["online-class", "teacher", "student"],
+    "language": "hi",
+    "createdAt": "2026-09-15",
+    "score": 90
+  },
+  {
+    "id": "jk-hi-007",
+    "slug": "mausam-vibhag-joke",
+    "title": "मौसम विभाग",
+    "text": "न्यूज़: आज तेज़ बारिश की संभावना है।\nमैंने छाता उठाया — कड़ी धूप निकल आई।\nअगले दिन छाता छोड़ा — पूरा मोहल्ला तैर रहा था।\nलगता है मौसम विभाग मुझे फ़ॉलो करता है। 🌦️",
+    "category": "hindi-jokes",
+    "tags": ["mausam", "barish", "funny"],
+    "language": "hi",
+    "createdAt": "2026-09-15",
+    "score": 79
+  },
+  {
+    "id": "jk-hi-008",
+    "slug": "diet-plan-joke",
+    "title": "डाइट प्लान",
+    "text": "आज से डाइट शुरू।\nनाश्ते में सलाद।\nदोपहर में सलाद।\nरात में दोस्तों की पार्टी।\nवहाँ भी तो सलाद रखा होता है ना? 🥗",
+    "category": "hindi-jokes",
+    "tags": ["diet", "khana", "party"],
+    "language": "hi",
+    "createdAt": "2026-09-14",
+    "score": 82
+  },
+  {
+    "id": "jk-hi-009",
+    "slug": "mobile-ki-battery-joke",
+    "title": "मोबाइल की बैटरी",
+    "text": "मोबाइल: 1% बैटरी बची है।\nमैं: बस दो मिनट और।\nमोबाइल: दो मिनट में मैंने पूरी ज़िंदगी देख ली। 🔋",
+    "category": "hindi-jokes",
+    "tags": ["mobile", "battery", "one-liner"],
+    "language": "hi",
+    "createdAt": "2026-09-14",
+    "score": 85
+  },
+  {
+    "id": "jk-hi-010",
+    "slug": "sabziwale-ka-hisab-joke",
+    "title": "सब्ज़ी वाले का हिसाब",
+    "text": "ग्राहक: भैया, टमाटर कैसे दिए?\nसब्ज़ी वाला: प्यार से, और कैसे दूँ?\nग्राहक: मतलब भाव क्या है?\nसब्ज़ी वाला: भाव सुनकर प्यार उड़ जाएगा साहब। 🍅",
+    "category": "hindi-jokes",
+    "tags": ["sabzi", "mehngai", "market"],
+    "language": "hi",
+    "createdAt": "2026-09-13",
+    "score": 83
+  },
+  {
+    "id": "jk-hi-011",
+    "slug": "neend-aur-alarm-joke",
+    "title": "नींद और अलार्म",
+    "text": "रात 11 बजे: कल सुबह 5 बजे उठकर पढ़ूँगा।\nसुबह 5 बजे: अलार्म बंद।\nसुबह 10 बजे: कल सुबह 5 बजे उठकर पढ़ूँगा।\nये लूप कब टूटेगा, कोई बता दे। ⏰",
+    "category": "hindi-jokes",
+    "tags": ["neend", "alarm", "student"],
+    "language": "hi",
+    "createdAt": "2026-09-13",
+    "score": 89
+  },
+  {
+    "id": "jk-hi-012",
+    "slug": "bank-ka-guard-joke",
+    "title": "बैंक का गार्ड",
+    "text": "मैं: भैया, अंदर लाइन कितनी लंबी है?\nगार्ड: लाइन तो छोटी है।\nमैं: फिर इतनी भीड़ क्यों?\nगार्ड: सब लाइन के बारे में पूछ रहे हैं। 🏦",
+    "category": "hindi-jokes",
+    "tags": ["bank", "line", "office"],
+    "language": "hi",
+    "createdAt": "2026-09-12",
+    "score": 76
+  },
+  {
+    "id": "jk-hi-013",
+    "slug": "traffic-mein-hero-joke",
+    "title": "ट्रैफ़िक का हीरो",
+    "text": "ट्रैफ़िक में फँसे हर बंदे को लगता है कि बगल वाली लेन तेज़ चल रही है।\nलेन बदलते ही वो लेन रुक जाती है\nऔर पुरानी वाली उड़ान भरने लगती है।\nये कोई साज़िश है। 🚗",
+    "category": "hindi-jokes",
+    "tags": ["traffic", "car", "daily-life"],
+    "language": "hi",
+    "createdAt": "2026-09-12",
+    "score": 78
+  },
+  {
+    "id": "jk-hi-014",
+    "slug": "cricket-aur-expert-joke",
+    "title": "घर का क्रिकेट एक्सपर्ट",
+    "text": "टीवी पर मैच चल रहा हो तो हर घर में एक कोच पैदा हो जाता है।\nवो बल्ला कभी उठाता नहीं,\nपर पूरी टीम की रणनीति सोफ़े से चलाता है। 🏏",
+    "category": "hindi-jokes",
+    "tags": ["cricket", "tv", "ghar"],
+    "language": "hi",
+    "createdAt": "2026-09-11",
+    "score": 86
+  },
+  {
+    "id": "jk-hi-015",
+    "slug": "washing-machine-mein-note-joke",
+    "title": "वॉशिंग मशीन का खज़ाना",
+    "text": "ज़िंदगी में सबसे बड़ी खुशी क्या है?\nधुली हुई जेब से सूखा हुआ नोट मिलना।\nलॉटरी भी इतना सुकून नहीं देती। 💸",
+    "category": "hindi-jokes",
+    "tags": ["ghar", "khushi", "one-liner"],
+    "language": "hi",
+    "createdAt": "2026-09-11",
+    "score": 81
+  },
+  {
+    "id": "jk-hi-016",
+    "slug": "rishtedar-ka-sawaal-joke",
+    "title": "रिश्तेदार का सवाल",
+    "text": "रिश्तेदार: बेटा, आजकल क्या कर रहे हो?\nमैं: सोच रहा हूँ।\nरिश्तेदार: किस बारे में?\nमैं: यही कि आप ये सवाल हर साल क्यों पूछते हैं। 🙃",
+    "category": "hindi-jokes",
+    "tags": ["rishtedar", "family", "shaadi"],
+    "language": "hi",
+    "createdAt": "2026-09-10",
+    "score": 80
+  }
+]

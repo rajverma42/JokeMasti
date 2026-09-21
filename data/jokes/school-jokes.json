@@ -1,0 +1,179 @@
+[
+  {
+    "id": "jk-sc-001",
+    "slug": "teacher-homework-joke",
+    "title": "Homework Kahan Hai?",
+    "text": "टीचर: होमवर्क कहाँ है?\nछात्र: सर, कॉपी घर पर रह गई।\nटीचर: और कॉपी कहाँ है?\nछात्र: सर, वो भी होमवर्क का इंतज़ार कर रही है। 📚",
+    "category": "school-jokes",
+    "tags": ["teacher", "homework", "student"],
+    "language": "hi",
+    "createdAt": "2026-09-18",
+    "score": 94,
+    "featured": true
+  },
+  {
+    "id": "jk-sc-002",
+    "slug": "last-bench-joke",
+    "title": "Last Bench",
+    "text": "Last bench par baithne walon ki\ndo hi skills hoti hain:\nTeacher ke aane se pehle alert dena,\naur exam me bhi confidence na khona. 😎",
+    "category": "school-jokes",
+    "tags": ["last-bench", "school", "friends"],
+    "language": "hinglish",
+    "createdAt": "2026-09-18",
+    "score": 93
+  },
+  {
+    "id": "jk-sc-003",
+    "slug": "exam-mein-question-joke",
+    "title": "Exam ka Paper",
+    "text": "Paper dekha.\nPehla question: nahi aata.\nDoosra: nahi aata.\nTeesra: naam likhna tha —\nchalo kuch toh aaya. ✍️",
+    "category": "school-jokes",
+    "tags": ["exam", "paper", "student"],
+    "language": "hinglish",
+    "createdAt": "2026-09-17",
+    "score": 91
+  },
+  {
+    "id": "jk-sc-004",
+    "slug": "sports-period-joke",
+    "title": "Games Period",
+    "text": "Poore hafte ka sabse bada tyohaar:\nGames period.\nAur uska sabse bada dukh:\n\"Aaj ground geela hai, class me baitho.\" ⚽",
+    "category": "school-jokes",
+    "tags": ["games", "school", "sad"],
+    "language": "hinglish",
+    "createdAt": "2026-09-17",
+    "score": 89
+  },
+  {
+    "id": "jk-sc-005",
+    "slug": "tiffin-chori-joke",
+    "title": "Tiffin ka Hisaab",
+    "text": "School me tiffin 3rd period me hi khatam ho jaata tha.\nLunch time me sirf dabba bachta tha\naur uske saath ek lambi kahani\nki \"bahut bhookh lag gayi thi.\" 🍱",
+    "category": "school-jokes",
+    "tags": ["tiffin", "lunch", "dost"],
+    "language": "hinglish",
+    "createdAt": "2026-09-16",
+    "score": 92
+  },
+  {
+    "id": "jk-sc-006",
+    "slug": "class-test-surprise-joke",
+    "title": "Surprise Test",
+    "text": "टीचर: आज सरप्राइज़ टेस्ट है।\nक्लास: सर, कम से कम बता तो देते।\nटीचर: बता देता तो सरप्राइज़ कैसा?\nक्लास: और हम पास कैसे होते? 😭",
+    "category": "school-jokes",
+    "tags": ["test", "teacher", "surprise"],
+    "language": "hi",
+    "createdAt": "2026-09-16",
+    "score": 90
+  },
+  {
+    "id": "jk-sc-007",
+    "slug": "topper-ki-copy-joke",
+    "title": "Topper ki Copy",
+    "text": "Topper: Maine kuch nahi padha.\nResult: 98%.\nMain: Maine sach me kuch nahi padha.\nResult: sach hi nikla. 📉",
+    "category": "school-jokes",
+    "tags": ["topper", "result", "exam"],
+    "language": "hinglish",
+    "createdAt": "2026-09-15",
+    "score": 95
+  },
+  {
+    "id": "jk-sc-008",
+    "slug": "school-bus-seat-joke",
+    "title": "School Bus",
+    "text": "School bus me window seat ke liye jo daud lagti thi,\nusme jo stamina tha,\nagar wahi ground me hota\ntoh aaj desh ke liye medal aata. 🚌",
+    "category": "school-jokes",
+    "tags": ["bus", "school", "bachpan"],
+    "language": "hinglish",
+    "createdAt": "2026-09-15",
+    "score": 87
+  },
+  {
+    "id": "jk-sc-009",
+    "slug": "principal-office-joke",
+    "title": "Principal Office",
+    "text": "Life ka sabse lamba raasta:\nClass se principal ke office tak ka 30 kadam ka corridor. 🚪",
+    "category": "school-jokes",
+    "tags": ["principal", "school", "one-liner"],
+    "language": "hinglish",
+    "createdAt": "2026-09-14",
+    "score": 88
+  },
+  {
+    "id": "jk-sc-010",
+    "slug": "maths-ka-sawaal-joke",
+    "title": "Maths ka Sawaal",
+    "text": "Maths: Ek aadmi ne 40 tarbooz khareede.\nMain: Kyun? Kaunsa insaan 40 tarbooz khareedta hai?\nTeacher: Sawaal solve karo.\nMain: Pehle uski mental health check kijiye. 🍉",
+    "category": "school-jokes",
+    "tags": ["maths", "teacher", "funny"],
+    "language": "hinglish",
+    "createdAt": "2026-09-14",
+    "score": 96
+  },
+  {
+    "id": "jk-sc-011",
+    "slug": "handwriting-joke",
+    "title": "Handwriting",
+    "text": "Teacher: Tumhari handwriting samajh nahi aati.\nMain: Sir, mujhe bhi nahi aati.\nTeacher: Toh likha kyun?\nMain: Ummeed thi ki aapko aa jaayegi. 🖊️",
+    "category": "school-jokes",
+    "tags": ["handwriting", "teacher", "exam"],
+    "language": "hinglish",
+    "createdAt": "2026-09-13",
+    "score": 86
+  },
+  {
+    "id": "jk-sc-012",
+    "slug": "new-copy-ka-pehla-page-joke",
+    "title": "Nayi Copy",
+    "text": "Nayi copy ka pehla page\nitni sundar handwriting se bharte the\njaise poori zindagi badalne wali ho.\nDoosre page se wahi purani haalat. 📓",
+    "category": "school-jokes",
+    "tags": ["copy", "handwriting", "bachpan"],
+    "language": "hinglish",
+    "createdAt": "2026-09-13",
+    "score": 91
+  },
+  {
+    "id": "jk-sc-013",
+    "slug": "attendance-present-sir-joke",
+    "title": "Present Sir",
+    "text": "Attendance me \"Yes sir\" bolne ka apna hi style hota tha.\nKisi ka romantic, kisi ka dramatic,\naur ek banda hamesha der se bolta tha —\nwo aaj bhi late hi aata hai. ✋",
+    "category": "school-jokes",
+    "tags": ["attendance", "class", "bachpan"],
+    "language": "hinglish",
+    "createdAt": "2026-09-12",
+    "score": 85
+  },
+  {
+    "id": "jk-sc-014",
+    "slug": "science-practical-joke",
+    "title": "Science Practical",
+    "text": "Practical me sabse pehle observation likha,\nphir experiment kiya,\naur result pehle se pata tha.\nScience ko humne reverse engineer kar diya tha. 🔬",
+    "category": "school-jokes",
+    "tags": ["science", "practical", "lab"],
+    "language": "hinglish",
+    "createdAt": "2026-09-12",
+    "score": 90
+  },
+  {
+    "id": "jk-sc-015",
+    "slug": "chhutti-ki-ghanti-joke",
+    "title": "Chhutti ki Ghanti",
+    "text": "Duniya ka sabse sureela sangeet:\nschool ki aakhri ghanti.\nUske aage koi symphony kuch nahi. 🔔",
+    "category": "school-jokes",
+    "tags": ["chhutti", "bell", "one-liner"],
+    "language": "hinglish",
+    "createdAt": "2026-09-11",
+    "score": 89
+  },
+  {
+    "id": "jk-sc-016",
+    "slug": "group-project-joke",
+    "title": "Group Project",
+    "text": "Group project me 5 log hote hain:\n1 kaam karta hai,\n2 idea dete hain,\n1 gayab rehta hai,\naur 1 presentation wale din naya naam suggest karta hai. 📽️",
+    "category": "school-jokes",
+    "tags": ["project", "group", "college"],
+    "language": "hinglish",
+    "createdAt": "2026-09-11",
+    "score": 93
+  }
+]

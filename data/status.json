@@ -1,0 +1,274 @@
+[
+  {
+    "id": "st-ws-001",
+    "kind": "whatsapp-status",
+    "title": "Busy Hoon",
+    "text": "Busy hoon.\nKaam me nahi —\nsochne me ki kaam kab shuru karun. 😅",
+    "tags": ["busy", "funny", "status"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-ws-002",
+    "kind": "whatsapp-status",
+    "title": "Reply Policy",
+    "text": "Reply late aayega.\nPyaar time pe hai,\nbas network dheela hai. 📶",
+    "tags": ["reply", "chat", "status"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-ws-003",
+    "kind": "whatsapp-status",
+    "title": "Mood Off",
+    "text": "Mood off hai.\nChai bana do,\nsab set ho jaayega. ☕",
+    "tags": ["mood", "chai", "status"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-ws-004",
+    "kind": "whatsapp-status",
+    "title": "Simple Hoon",
+    "text": "Main simple hoon.\nBas logon ko samajhne me\nthoda time lagta hai. 🙂",
+    "tags": ["attitude", "simple", "status"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-ws-005",
+    "kind": "whatsapp-status",
+    "title": "Plan Ready",
+    "text": "Aaj ka plan:\nkoi plan nahi.\nAur ye plan perfect chal raha hai. 😎",
+    "tags": ["plan", "weekend", "status"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-ws-006",
+    "kind": "whatsapp-status",
+    "title": "Online Nahi Hoon",
+    "text": "Online dikh raha hoon,\npar available nahi hoon.\nDono alag cheezein hain. 📱",
+    "tags": ["online", "chat", "status"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fs-001",
+    "kind": "funny-status",
+    "title": "Diet Update",
+    "text": "Diet ka pehla din:\nsalad.\nDiet ka doosra din:\nsalad ke saath samosa.\nProgress hai. 🥗",
+    "tags": ["diet", "khana", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fs-002",
+    "kind": "funny-status",
+    "title": "Bank Balance",
+    "text": "Mera bank balance\naur meri padhai —\ndono \"thoda aur karna padega\" wale stage pe hain. 💸",
+    "tags": ["paisa", "funny", "relatable"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fs-003",
+    "kind": "funny-status",
+    "title": "Alarm ka Kaam",
+    "text": "Alarm ka kaam mujhe uthana nahi,\nmujhe yaad dilana hai\nki main so raha hoon. ⏰",
+    "tags": ["alarm", "neend", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fs-004",
+    "kind": "funny-status",
+    "title": "Multitasking",
+    "text": "Main multitasking kar sakta hoon:\nek saath kuch nahi kar sakta\naur thak bhi sakta hoon. 😴",
+    "tags": ["multitasking", "funny", "work"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fs-005",
+    "kind": "funny-status",
+    "title": "Weekend Plan",
+    "text": "Weekend ka plan bana liya.\nAb bas weekend ka intezaar,\naur plan ka cancel hona baaki hai. 📅",
+    "tags": ["weekend", "plan", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fs-006",
+    "kind": "funny-status",
+    "title": "Expert Advice",
+    "text": "Main har cheez ka expert hoon —\njab tak koi sawal na pooche. 🎓",
+    "tags": ["expert", "funny", "attitude"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gm-001",
+    "kind": "good-morning",
+    "title": "Good Morning — Chai Wala",
+    "text": "Good Morning! ☀️\nAaj ka din aapke liye\nutna hi accha ho\njitni subah ki pehli chai. ☕",
+    "tags": ["good-morning", "chai", "wish"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gm-002",
+    "kind": "good-morning",
+    "title": "Good Morning — Alarm",
+    "text": "Subah ho gayi! 🌅\nAlarm ne apna kaam kar diya,\nab aapki baari hai.\nGood Morning!",
+    "tags": ["good-morning", "alarm", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gm-003",
+    "kind": "good-morning",
+    "title": "Good Morning — Muskaan",
+    "text": "Aaj subah aaine me dekha —\nkoi bahut accha insaan muskura raha tha.\nGood Morning, aap! 😊",
+    "tags": ["good-morning", "positive", "wish"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gm-004",
+    "kind": "good-morning",
+    "title": "Good Morning — Naya Din",
+    "text": "Kal jo nahi ho paya,\nwo aaj ho sakta hai.\nNaya din, nayi shuruaat.\nGood Morning! 🌞",
+    "tags": ["good-morning", "motivation", "wish"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gm-005",
+    "kind": "good-morning",
+    "title": "Good Morning — 5 Minute",
+    "text": "Uth jaiye!\nWo \"paanch minute\"\naadhe ghante ka plan bana chuka hai. 😴\nGood Morning!",
+    "tags": ["good-morning", "neend", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gm-006",
+    "kind": "good-morning",
+    "title": "Good Morning — Simple",
+    "text": "Good Morning! 🌻\nAaj kuch bada na sahi,\nkuch accha zaroor ho.",
+    "tags": ["good-morning", "short", "wish"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gn-001",
+    "kind": "good-night",
+    "title": "Good Night — Phone Rakhiye",
+    "text": "Good Night! 🌙\nAb phone rakh dijiye,\nwarna subah phir \"5 minute\" hoga.",
+    "tags": ["good-night", "phone", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gn-002",
+    "kind": "good-night",
+    "title": "Good Night — Tension",
+    "text": "Aaj ki tension\naaj ke saath so jaaye.\nKal ka kal dekhenge.\nGood Night! 😌",
+    "tags": ["good-night", "peace", "wish"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gn-003",
+    "kind": "good-night",
+    "title": "Good Night — Sapne",
+    "text": "Aapke sapne itne acche hon\nki alarm bura lage.\nGood Night! ✨",
+    "tags": ["good-night", "sapne", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gn-004",
+    "kind": "good-night",
+    "title": "Good Night — Charging",
+    "text": "Phone charge pe laga diya,\nab khud bhi charge ho jaiye.\nGood Night! 🔋",
+    "tags": ["good-night", "phone", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-gn-005",
+    "kind": "good-night",
+    "title": "Good Night — Short",
+    "text": "Good Night! 🌛\nDin accha tha ya nahi,\nneend achhi honi chahiye.",
+    "tags": ["good-night", "short", "wish"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fr-001",
+    "kind": "friendship-status",
+    "title": "Dost Wala Status",
+    "text": "Mere dost paisa nahi dete,\npar waqt dete hain —\naur waqt mehnga hai. 🤝",
+    "tags": ["dosti", "status", "emotional"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fr-002",
+    "kind": "friendship-status",
+    "title": "Best Friend",
+    "text": "Best friend wo hai\njisse ladne ke baad bhi\nkhana usi ke saath khana hai. 🍽️",
+    "tags": ["dosti", "status", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fr-003",
+    "kind": "friendship-status",
+    "title": "Purani Dosti",
+    "text": "Kuch dosti purani sharab jaisi nahi,\nchai jaisi hoti hai —\nroz chahiye. ☕",
+    "tags": ["dosti", "chai", "status"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fr-004",
+    "kind": "friendship-status",
+    "title": "Group ka Sach",
+    "text": "Hamare group me koi leader nahi hai.\nSab confuse hain,\npar saath hain. 😄",
+    "tags": ["dosti", "group", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-fr-005",
+    "kind": "friendship-status",
+    "title": "Dost ki Keemat",
+    "text": "Ek accha dost\n100 followers se zyada kaam ka hai. 🎗️",
+    "tags": ["dosti", "status", "one-liner"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-sh-001",
+    "kind": "funny-shayari",
+    "title": "Shayari — Chai",
+    "text": "Ishq bhi kya cheez hai,\nkabhi jalata hai kabhi rulata hai,\nlekin chai roz sambhal leti hai\njo dil tootne se bach jata hai. ☕",
+    "tags": ["shayari", "chai", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-sh-002",
+    "kind": "funny-shayari",
+    "title": "Shayari — Battery",
+    "text": "Dil ki battery low hai,\ncharger tumhare paas hai,\npar tum bhi aajkal\npower cut me rehti ho. 🔌",
+    "tags": ["shayari", "funny", "love"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-sh-003",
+    "kind": "funny-shayari",
+    "title": "Shayari — Salary",
+    "text": "Mahine ki pehli tareekh,\nchehre pe noor aa jata hai,\naur pachchees tareekh ko\nwahi chehra philosopher ban jata hai. 💸",
+    "tags": ["shayari", "salary", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-sh-004",
+    "kind": "funny-shayari",
+    "title": "Shayari — Neend",
+    "text": "Neend meri mehmaan hai,\naati hai bin bulaye,\nbas exam ki raat ko\nsabse pehle aa jaye. 😴",
+    "tags": ["shayari", "neend", "exam"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-sh-005",
+    "kind": "funny-shayari",
+    "title": "Shayari — Diet",
+    "text": "Kasam khayi thi diet ki,\niraade bhi nek the,\nsamose ne dekha aur bola —\nkitne kamzor irade the. 🥟",
+    "tags": ["shayari", "diet", "funny"],
+    "language": "hinglish"
+  },
+  {
+    "id": "st-sh-006",
+    "kind": "funny-shayari",
+    "title": "Shayari — Reply",
+    "text": "Tere reply ka intezaar\nitna lamba ho gaya,\nki message ab purana\naur dil ab sayana ho gaya. 💬",
+    "tags": ["shayari", "chat", "love"],
+    "language": "hinglish"
+  }
+]

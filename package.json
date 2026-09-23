@@ -2,16 +2,12 @@
   "name": "jokemasti",
   "version": "1.0.0",
   "private": true,
-  "description": "JokeMasti — Hasi Ka Daily Dose! A fast, static, SEO-optimised Hindi/Hinglish/English jokes platform for Indian users.",
-  "type": "module",
-  "license": "UNLICENSED",
+  "description": "JokeMasti – static multi-language jokes website. Har Din Hasi Ka Dose!",
   "scripts": {
-    "build": "node build.js",
-    "images": "python3 scripts/generate_images.py",
-    "serve": "python3 -m http.server 8080 --directory dist",
-    "check": "node scripts/check-links.js"
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/validate.js && node scripts/build.js",
+    "serve": "node scripts/serve.js"
   },
-  "engines": {
-    "node": ">=18"
-  }
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
 }

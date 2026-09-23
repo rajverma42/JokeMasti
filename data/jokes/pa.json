@@ -1,0 +1,66 @@
+[
+  {
+    "id": "JM-PA-0001",
+    "title": "ਇੱਕ ਹੋਰ ਰੋਟੀ",
+    "language": "pa",
+    "category": "mother-son",
+    "text": "ਮੰਮੀ: ਪੁੱਤ, ਰੋਟੀ ਖਾ ਲੈ।\nਪੁੱਤ: ਭੁੱਖ ਨਹੀਂ ਹੈ।\nਮੰਮੀ: ਚੱਲ ਫਿਰ ਇੱਕ ਹੋਰ ਖਾ ਲੈ।",
+    "tags": [
+      "mom",
+      "roti"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-PA-0002",
+    "title": "ਪੰਜ ਮਿੰਟ ਵਾਲਾ ਯਾਰ",
+    "language": "pa",
+    "category": "friendship",
+    "text": "ਯਾਰ ਉਹ ਹੁੰਦਾ ਜਿਹੜਾ ਕਹੇ \"ਪੰਜ ਮਿੰਟ 'ਚ ਆਇਆ\", ਤੇ ਫਿਰ ਆਪ ਵੀ ਉਸ ਗੱਲ 'ਤੇ ਭਰੋਸਾ ਕਰ ਲਵੇ।",
+    "tags": [
+      "friends",
+      "late"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-PA-0003",
+    "title": "ਕਦੇ ਨਾ ਮੁੱਕਣ ਵਾਲੀ ਦਾਲ",
+    "language": "pa",
+    "category": "teacher-student",
+    "text": "ਅਧਿਆਪਕ: ਸਭ ਤੋਂ ਵੱਡਾ ਸਮੁੰਦਰ ਕਿਹੜਾ ਹੈ?\nਵਿਦਿਆਰਥੀ: ਜੀ, ਮੰਮੀ ਦੀ ਦਾਲ ਵਾਲੀ ਪਤੀਲੀ। ਕਦੇ ਮੁੱਕਦੀ ਹੀ ਨਹੀਂ।",
+    "tags": [
+      "dal",
+      "school"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-PA-0004",
+    "title": "ਲੱਸੀ ਦਾ ਗਲਾਸ",
+    "language": "pa",
+    "category": "one-liner",
+    "text": "ਲੱਸੀ ਦਾ ਗਲਾਸ ਵੱਡਾ ਹੋਵੇ, ਤਾਂ ਨੀਂਦ ਆਪੇ ਆ ਜਾਂਦੀ ਹੈ।",
+    "tags": [
+      "lassi",
+      "sleep"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]

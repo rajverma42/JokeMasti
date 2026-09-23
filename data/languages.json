@@ -1,0 +1,16 @@
+[
+  {"code":"hi","slug":"hindi","name":"Hindi","nativeName":"हिन्दी","htmlLang":"hi","dir":"ltr","file":"hi.json"},
+  {"code":"en","slug":"english","name":"English","nativeName":"English","htmlLang":"en","dir":"ltr","file":"en.json"},
+  {"code":"hinglish","slug":"hinglish","name":"Hinglish","nativeName":"Hinglish","htmlLang":"hi-Latn","dir":"ltr","file":"hinglish.json"},
+  {"code":"bn","slug":"bengali","name":"Bengali","nativeName":"বাংলা","htmlLang":"bn","dir":"ltr","file":"bn.json"},
+  {"code":"mr","slug":"marathi","name":"Marathi","nativeName":"मराठी","htmlLang":"mr","dir":"ltr","file":"mr.json"},
+  {"code":"gu","slug":"gujarati","name":"Gujarati","nativeName":"ગુજરાતી","htmlLang":"gu","dir":"ltr","file":"gu.json"},
+  {"code":"pa","slug":"punjabi","name":"Punjabi","nativeName":"ਪੰਜਾਬੀ","htmlLang":"pa","dir":"ltr","file":"pa.json"},
+  {"code":"ta","slug":"tamil","name":"Tamil","nativeName":"தமிழ்","htmlLang":"ta","dir":"ltr","file":"ta.json"},
+  {"code":"te","slug":"telugu","name":"Telugu","nativeName":"తెలుగు","htmlLang":"te","dir":"ltr","file":"te.json"},
+  {"code":"kn","slug":"kannada","name":"Kannada","nativeName":"ಕನ್ನಡ","htmlLang":"kn","dir":"ltr","file":"kn.json"},
+  {"code":"ml","slug":"malayalam","name":"Malayalam","nativeName":"മലയാളം","htmlLang":"ml","dir":"ltr","file":"ml.json"},
+  {"code":"or","slug":"odia","name":"Odia","nativeName":"ଓଡ଼ିଆ","htmlLang":"or","dir":"ltr","file":"or.json"},
+  {"code":"as","slug":"assamese","name":"Assamese","nativeName":"অসমীয়া","htmlLang":"as","dir":"ltr","file":"as.json"},
+  {"code":"ur","slug":"urdu","name":"Urdu","nativeName":"اردو","htmlLang":"ur","dir":"rtl","file":"ur.json"}
+]

@@ -1,180 +1,151 @@
-# JokeMasti — Hasi Ka Daily Dose! 😂
+# JokeMasti — Har Din Hasi Ka Dose!
 
-A production-quality, mobile-first Hindi/Hinglish/English jokes platform for
-Indian users. Fully static, framework-free, fast, SEO-optimised, ad-ready,
-and installable as a PWA. No login, no database, no AI, no paid APIs
-required to run it.
+A fast, static, multi-language jokes website. No backend, no database, no login, no paid APIs.
+Jokes live in JSON files; a small Node script (zero dependencies) turns them into plain HTML pages
+that any static host can serve.
 
-## What's in here
-
-- **277 statically generated pages** — home, jokes (14 categories, paginated,
-  + 208 individual joke pages), trending, 16 festival hub/detail pages, a
-  WhatsApp status/shayari corner, search, saved/bookmarks, 6 legal pages, and
-  404/offline fallbacks.
-- **Client-side search, copy, share (WhatsApp/Telegram/Facebook/X/native),
-  bookmark and like**, all in one ~20KB vanilla JS file — no frameworks, no
-  build step needed to run it in a browser.
-- **PWA**: manifest, service worker (network-first pages, cache-first
-  assets), offline fallback page, install prompt.
-- **SEO**: unique title/description/canonical per page, Open Graph + Twitter
-  cards, JSON-LD (Organization, WebSite+SearchAction, BreadcrumbList,
-  CreativeWork on jokes), auto-generated `sitemap.xml` + `robots.txt`, clean
-  semantic URLs.
-- **AdSense-ready** ad containers on every page — disabled by default so
-  nothing loads until you flip a switch (see below).
-
-> **Note on Memes**: the Memes feature (meme pages, nav links, meme cards,
-> Trending/Saved integration) has been removed from the live site. The
-> underlying data (`data/memes.json`, `data/categories.json`'s `memes`
-> array) and the artwork generator (`scripts/generate_images.py`) are kept
-> in the repo, unused, so the feature can be re-built later without
-> recreating that content from scratch — see `src/pages/memes.js` (also
-> kept, unused) for the original page-builder logic.
-
-## Project structure
-
-```
-data/               Content — the only place you edit to add/change jokes, festivals, categories
-  jokes/*.json         One file per joke category
-  memes.json            Unused — kept for a possible future re-enable of Memes
-  categories.json       Category metadata (name, emoji, SEO copy) for jokes (its `memes` array is unused)
-  festivals.json         16 festivals: intro copy + wishes
-  status.json             WhatsApp status/shayari/good-morning/good-night content
-  site.json                 Site-wide config: name, tagline, URLs, ads, pagination
-
-src/
-  lib/                 Pure data + string helpers (no HTML)
-  templates/            layout.js (head/header/footer/page shell), components.js (cards, buttons…), icons.js (inline SVG sprite)
-  pages/                One file per route family — returns full HTML strings (memes.js is unused, kept for reference)
-  assets/css/style.css   The entire design system (one file, mobile-first)
-  assets/js/app.js        All client behaviour (theme, search, share, bookmarks, sort, install, SW registration)
-  static/sw.js             Service worker source
-
-scripts/
-  generate_images.py     Unused — renders original meme artwork + brand/icon assets (Pillow); still used for the brand icons/OG image
-  check-links.js          Crawls dist/ and verifies every internal href/src resolves
-  screenshot.mjs           Playwright visual QA across mobile/desktop/dark mode
-
-build.js               The static site generator — reads data/, writes dist/
-dist/                  Build output (gitignored) — deploy this folder as-is
-```
-
-## Building it
+## Quick start
 
 ```bash
-npm run build      # generates dist/ (~277 pages) from data/
-npm run check       # crawls dist/ for broken internal links/assets
-npm run images        # regenerate brand icons/OG image (also renders meme artwork, currently unused)
+node -v            # Node 18 or newer
+npm run build      # validates data, then writes the site to dist/
+npm run serve      # preview at http://localhost:8080
+npm run validate   # content report + error check only
 ```
 
-Requires Node 18+. Regenerating images requires Python 3 + Pillow
-(`pip install pillow --break-system-packages`) and the Poppins font family
-(already used from `/usr/share/fonts` in the reference environment — point
-`FONT_DIR` in the script at your own font if it's elsewhere).
+`dist/` is included in this download, already built, so you can upload it as-is.
 
-## Adding content
+## Before you go live
 
-Everything is data-driven — you never touch HTML to add a joke.
+Edit `data/site.json`:
 
-**Add a joke**: append an object to the right file in `data/jokes/`:
+| Field | What to set |
+|---|---|
+| `url` | Your real site address, no trailing slash, e.g. `https://jokemasti.com`. Canonical URLs, share links, sitemap and Open Graph tags all use it. |
+| `email`, `copyrightEmail` | Addresses you actually read. They appear on Contact, Privacy and Copyright pages. |
+| `legalLastUpdated` | Date shown on legal pages. |
 
-```json
-{
-  "id": "jk-hi-017",
-  "slug": "a-unique-url-slug",
-  "title": "Joke Title",
-  "text": "Line one.\nLine two. 😂",
-  "category": "hindi-jokes",
-  "tags": ["tag1", "tag2"],
-  "language": "hi",
-  "createdAt": "2026-09-21",
-  "score": 85
-}
-```
-
-`language` is `"hi"` (Devanagari), `"hinglish"`, or `"en"` — it controls the
-`lang` attribute for accessible text-to-speech. `score` (0–100) is an
-editorial quality/ranking signal used for "Popular"/"Trending" sorting; it's
-never shown to users as a fake engagement count.
-
-**Add a category or festival**: edit `data/categories.json` /
-`data/festivals.json` — pages are generated automatically.
-
-## Honest metrics, by design
-
-Like/share/download/view counts start at **0** everywhere — nothing is
-pre-inflated. The Trending page ranks by an editorial "Buzz score" rather
-than inventing specific share/like counts, so nothing on the site claims
-social proof that doesn't exist yet. Likes and bookmarks a visitor makes are
-stored only in their own browser (`localStorage`) — there's no backend, so
-nothing is shared across users or sent anywhere.
-
-## Going live with ads (Google AdSense)
-
-Ad containers are on every page already, clearly labelled, and never shift
-layout — but they render as empty placeholders until you turn ads on. Edit
-`data/site.json`:
-
-```json
-"ads": {
-  "enabled": true,
-  "client": "ca-pub-XXXXXXXXXXXXXXXX"
-}
-```
-
-Run `npm run build` again — every ad slot becomes a real
-`<ins class="adsbygoogle">` unit, the AdSense loader script is added
-automatically, and `app.js` pushes each unit on page load. No other code
-changes needed.
+Then run `npm run build` again. Have the Privacy Policy and Terms reviewed for your jurisdiction before
+you enable ads or analytics.
 
 ## Deploying
 
-The output is a plain static folder — any static host works.
+| Host | Setup |
+|---|---|
+| **Cloudflare Pages** | Build command `npm run build`, output directory `dist`. `_headers` is applied automatically. |
+| **Netlify** | `netlify.toml` is included. `_headers` is applied automatically. |
+| **Vercel** | `vercel.json` is included (build command, output dir, headers). |
+| **GitHub Pages** | Push to `main`, set *Settings → Pages → Source* to **GitHub Actions**. `.github/workflows/deploy.yml` builds and publishes. |
 
-- **Netlify / Vercel**: connect the repo; `netlify.toml` / `vercel.json` are
-  already set up (build command `npm run build`, publish dir `dist`, cache
-  headers, security headers, clean URLs, automatic 404 page).
-- **GitHub Pages**: `.github/workflows/deploy-pages.yml` builds and publishes
-  `dist/` on every push to `main` — the one prerequisite is a repo setting
-  this workflow can't flip on its own: **Settings → Pages → Build and
-  deployment → Source → "GitHub Actions"** (it starts as "Deploy from a
-  branch", which just runs GitHub's own Jekyll pipeline over whatever's in
-  the repo root instead of running this build). A GitHub Pages *project*
-  site (`https://<user>.github.io/<repo>/`) is served from a subpath, not
-  the domain root, so the workflow passes a `SITE_URL` env var that
-  `build.js` uses to compute the right base path for every internal link,
-  asset path, and the service worker/manifest — see the "Base path" log
-  line it prints. Deploying elsewhere under a subpath (not the domain
-  root)? Set `SITE_URL` the same way when you run `node build.js` yourself.
-- **Cloudflare Pages / any other static host**: run `npm run build` (add
-  `SITE_URL=https://your-domain` only if serving from a subpath — omit it
-  for a normal domain-root deploy) and upload the contents of `dist/` —
-  directory-style URLs (`/jokes/hindi-jokes/`) and `404.html` are both
-  handled natively by every major static host without extra config.
+**GitHub Pages without a custom domain** serves the site from a sub-path (`https://you.github.io/jokemasti`).
+Set `"url": "https://you.github.io/jokemasti"` in `site.json`; every internal link, the service worker
+and the manifest pick up the `/jokemasti` prefix automatically.
 
-Before going live, update `data/site.json` → `url` to your real domain (it
-feeds canonical URLs, the sitemap, and structured data) — or override it
-per-build with the `SITE_URL` env var described above without editing the
-file, e.g. for a staging deploy.
+## Adding jokes
 
-## Performance notes
+Jokes are in `data/jokes/<language>.json`, one array per language (`en.json`, `hi.json`, `hinglish.json`, `bn.json` …).
 
-- Single ~27KB CSS file, single ~24KB deferred JS file, no external fonts
-  (system font stack — zero font-loading cost, native Devanagari support)
-  and no third-party libraries.
-- Every image ships with explicit `width`/`height` (no layout shift) and
-  `loading="lazy"` off the initial viewport.
-- Pages are pre-rendered HTML — there's no client-side render step for the
-  first paint; JS only adds interactivity on top.
+```json
+{
+  "id": "JM-HI-0080",
+  "title": "छोटा शीर्षक",
+  "language": "hi",
+  "category": "teacher-student",
+  "text": "टीचर: ...\nछात्र: ...",
+  "tags": ["school", "exam"],
+  "popularity": 75,
+  "source": "original",
+  "createdAt": "2026-10-01",
+  "updatedAt": "2026-10-01"
+}
+```
 
-## What's intentionally out of scope for v1
+Rules the validator enforces:
 
-- No server/database — content lives in JSON and is compiled at build time.
-  Swapping in a CMS or DB later means changing `src/lib/data.js`'s loaders;
-  every page builder already consumes a plain in-memory content graph, so
-  the rest of the codebase doesn't need to change.
-- No AI features — search is a plain client-side keyword index.
-- The contact form uses a `mailto:` submit (opens the visitor's mail app
-  pre-filled) since there's no backend. Swap the form's `action` for a form
-  service (Netlify Forms, Formspree, etc.) if you want submissions to land
-  somewhere without opening the visitor's email client.
+- **IDs never change and are never reused.** Format `JM-XX-0001`, where `XX` is the language prefix
+  (EN, HI, HG = Hinglish, BN, MR, GU, PA, TA, TE, KN, ML, OR, AS, UR). Use the next number in the file.
+  The ID is part of the joke's URL, so changing it breaks links.
+- `language` must match the file. `category` must be a slug from `data/categories.json`.
+- The same joke text can't appear twice (compared ignoring spaces and punctuation).
+- Use `\n` for a new line (each line becomes its own paragraph, good for dialogue).
+- `popularity` is an editor score from 1–100. It drives the Popular list and the Trending score.
+- `"status": "draft"` hides a joke from the build.
+- Optional: `"featured": true` (+15 trending bonus), `"reviewStatus"`, `"source": "traditional"` for
+  retellings of folk jokes with no known author.
+
+Removing a joke: delete it from the file. Its page disappears on the next build, and people who saved it
+see a short note on the Saved Jokes page.
+
+### Categories, languages, templates
+
+- `data/categories.json` — 30 categories. `href` makes a category a shortcut to another page
+  (Hindi, English, Short). `rule` makes it a collection (`maxLength`, `tag`, or `all`).
+  `"enabled": false` hides it — Dark Humor is disabled until there is a reviewed, clearly labelled set.
+- `data/languages.json` — `htmlLang` and `dir` are used for correct fonts, screen readers and RTL (Urdu).
+- `data/templates.json` — the 15 formats shown on `/joke-templates/`.
+
+## Content status
+
+This release ships **303 jokes**: English 110, Hindi 79, Hinglish 70, and 4 each in Bengali, Marathi,
+Gujarati, Punjabi, Tamil, Telugu, Kannada, Malayalam, Odia, Assamese and Urdu. The target is 1,000+,
+added in batches.
+
+- **Regional jokes need native-speaker review.** All 44 carry `"reviewStatus": "pending-native-review"`.
+  `npm run validate` reports how many are left. Language pages with pending jokes show a small "tell us"
+  note.
+- 38 jokes are marked `"source": "traditional"` — our wording of widely told folk jokes.
+- Santa Banta jokes are written as two silly friends with no reference to religion or community.
+
+## Ads (AdSense-ready, off by default)
+
+Ad containers are already placed on the home page, listings, category/language pages and joke pages.
+While ads are off they render as empty hidden elements, so nothing fake is ever shown.
+
+1. Get approved by AdSense.
+2. In `data/site.json` set `"ads": { "enabled": true, "client": "ca-pub-XXXXXXXXXXXXXXX", "slots": { ... } }`
+   and fill in the ad-unit IDs for the positions you want. Positions with an empty ID stay empty.
+3. Rebuild. Slots show an "Advertisement" label, reserve height to avoid layout shift, and load the
+   AdSense script only when the first slot scrolls near view.
+4. Add an `ads.txt` file to `src/static/` (it's copied to the site root).
+5. If you serve visitors in the EEA/UK, use a Google-certified consent tool before ads load.
+
+## What's where
+
+```
+data/                 site, languages, categories, templates, jokes/*.json
+scripts/build.js      generates every page into dist/
+scripts/lib.js        loading + validation shared by build and validate
+scripts/validate.js   content report
+scripts/serve.js      local preview server
+src/assets/           styles.css, app.js, icons.svg (content-hashed on build)
+src/static/           favicon, PWA icons, OG image (copied as-is)
+src/sw.template.js    service worker template
+```
+
+### Pages generated
+
+Home, `/jokes/` (paginated `/jokes/page/2/`), `/jokes/short/`, `/languages/`, `/jokes/{language}/`,
+`/jokes/{language}/{category}/` (when a combo has 3+ jokes), `/categories/`, `/category/{slug}/`,
+`/tags/`, `/tag/{tag}/` (3+ jokes), `/popular/`, `/trending/`, `/joke/{title-slug}-{id}/`,
+`/joke-of-the-day/`, `/random-joke/`, `/saved-jokes/` (noindex), `/search/` (noindex),
+`/joke-templates/`, About, Contact, Privacy Policy, Terms, Disclaimer, Copyright, `/offline/`, `404.html`,
+plus `sitemap.xml`, `robots.txt`, `manifest.json`, `sw.js`.
+
+### How the "live" features work without a server
+
+- **Search & filters** download one small index (`/assets/search-index.*.json`) on first use and run in
+  the browser. Results update the URL (`?q=exam&lang=hi&sort=trending`) so they can be shared.
+  Static paginated lists remain for search engines and no-JS visitors.
+- **Joke of the Day** = `daysSince1970(local date) % totalJokes` over jokes sorted by ID. Same joke for
+  everyone on the same date. Adding jokes changes the rotation from that day on.
+- **Trending** = editor score + up to 30 points for jokes added in the last 30 days + 15 if featured.
+  The formula is explained on the Trending page. There are no like or share counts anywhere.
+- **Saved jokes & theme** use `localStorage` (`jm:saved`, `jm:theme`). Nothing leaves the device.
+- **Contact form** opens the visitor's email app via `mailto:`. It does not pretend to send anything.
+- **Offline**: visited pages and site assets are cached; uncached pages show `/offline/`.
+
+## Note on the brief
+
+The specification document was cut off in section 45 ("Content Administration without Admin Panel").
+This build covers it as: JSON files + `npm run validate` + rebuild, with stable IDs and the rules above.
+If that section had more requirements, they still need to be added.

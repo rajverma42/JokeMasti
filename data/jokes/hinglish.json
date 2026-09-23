@@ -1,0 +1,1063 @@
+[
+  {
+    "id": "JM-HG-0001",
+    "title": "Homework Download Nahi Hua",
+    "language": "hinglish",
+    "category": "teacher-student",
+    "text": "Teacher: Tumhara homework kahan hai?\nPappu: Ma'am, Wi-Fi band tha. Homework download hi nahi hua.",
+    "tags": [
+      "pappu",
+      "wifi",
+      "homework"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0002",
+    "title": "Class Mein Shaanti",
+    "language": "hinglish",
+    "category": "teacher-student",
+    "text": "Teacher: Sabse achhi neend kahan aati hai?\nPappu: Aapki class mein, ma'am. Wahan bahut shaanti hoti hai.",
+    "tags": [
+      "pappu",
+      "sleep",
+      "class"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0003",
+    "title": "Sapne Dekho",
+    "language": "hinglish",
+    "category": "teacher-student",
+    "text": "Teacher: Tum class mein so kyun rahe the?\nStudent: Ma'am, aapne hi toh kaha tha, \"Sapne dekho, tabhi poore honge.\"",
+    "tags": [
+      "sleep",
+      "dreams"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0004",
+    "title": "Newton Ka Teesra Niyam",
+    "language": "hinglish",
+    "category": "teacher-student",
+    "text": "Teacher: Newton ka teesra niyam batao.\nStudent: Sir, jab mummy daant'ti hain, toh equal and opposite reaction papa ki taraf se aata hai.",
+    "tags": [
+      "science",
+      "newton"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0005",
+    "title": "Gol Earth",
+    "language": "hinglish",
+    "category": "teacher-student",
+    "text": "Teacher: Earth gol kyun hai?\nPappu: Taaki punishment mein koi kone mein khada na ho sake, ma'am.",
+    "tags": [
+      "pappu",
+      "geography"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0006",
+    "title": "Jo Aata Hai Likho",
+    "language": "hinglish",
+    "category": "teacher-student",
+    "text": "Teacher: Tumne test mein sirf apna naam kyun likha?\nPappu: Ma'am, aapne kaha tha, \"Jo aata hai, woh likho.\"",
+    "tags": [
+      "pappu",
+      "test"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0007",
+    "title": "Aadhi Fees",
+    "language": "hinglish",
+    "category": "doctor-patient",
+    "text": "Patient: Doctor, main raat ko phone chalata hun, isliye neend nahi aati.\nDoctor: Phone band kar do aur so jao.\nPatient: Bas itna? Toh fees bhi aadhi kar do.",
+    "tags": [
+      "sleep",
+      "phone",
+      "fees"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0008",
+    "title": "Tension Ki Wajah",
+    "language": "hinglish",
+    "category": "doctor-patient",
+    "text": "Doctor: Aapko itni tension kyun hai?\nPatient: Doctor sahab, aapki fees sunke.",
+    "tags": [
+      "fees",
+      "tension"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0009",
+    "title": "Fridge Tak Walk",
+    "language": "hinglish",
+    "category": "doctor-patient",
+    "text": "Doctor: Roz 30 minute walk kiya karo.\nPatient: Doctor sahab, main roz fridge tak 20 baar jaata hun. Chalega?",
+    "tags": [
+      "walk",
+      "fridge",
+      "exercise"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0010",
+    "title": "Kuch Bhi Chalega",
+    "language": "hinglish",
+    "category": "husband-wife",
+    "text": "Wife: Aaj dinner mein kya banaun?\nHusband: Kuch bhi chalega.\nWife: Theek hai, khichdi bana di.\nHusband: Kuch bhi ka matlab khichdi thodi tha!",
+    "tags": [
+      "dinner",
+      "khichdi",
+      "couple"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0011",
+    "title": "Boss Ki Boss",
+    "language": "hinglish",
+    "category": "husband-wife",
+    "text": "Husband: Is ghar ka boss main hun.\nWife: Bilkul. Aur main boss ki boss.",
+    "tags": [
+      "couple",
+      "boss"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0012",
+    "title": "Confused Calendar",
+    "language": "hinglish",
+    "category": "husband-wife",
+    "text": "Wife: Tum mera birthday kaise bhool gaye?\nHusband: Tum har saal itni young lagti ho ki calendar bhi confuse ho jaata hai.",
+    "tags": [
+      "birthday",
+      "couple"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0013",
+    "title": "Raat Bhar Ka Topper",
+    "language": "hinglish",
+    "category": "friendship",
+    "text": "Dost ki definition: exam se ek raat pehle bolega, \"Bhai, maine bhi kuch nahi padha\", aur phir 90% le aayega.",
+    "tags": [
+      "exam",
+      "friends",
+      "topper"
+    ],
+    "popularity": 90,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0014",
+    "title": "Udhaar Ka Hisaab",
+    "language": "hinglish",
+    "category": "friendship",
+    "text": "Dost: Bhai, 500 rupaye udhaar de.\nMain: Abhi sirf 200 hain.\nDost: Chal, 200 de de. Baaki 300 tu mujhe baad mein de dena.",
+    "tags": [
+      "money",
+      "friends"
+    ],
+    "popularity": 86,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0015",
+    "title": "Khaane Par Haq",
+    "language": "hinglish",
+    "category": "friendship",
+    "text": "Hum itne achhe dost hain ki ek dusre ke tiffin par pehla haq samajhte hain.",
+    "tags": [
+      "tiffin",
+      "friends"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0016",
+    "title": "IPL Auction",
+    "language": "hinglish",
+    "category": "desi",
+    "text": "Relatives ka favourite sawaal: \"Beta, placement kab hoga?\" Jaise main college mein nahi, IPL auction mein hun.",
+    "tags": [
+      "relatives",
+      "placement"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0017",
+    "title": "Mom GPS",
+    "language": "hinglish",
+    "category": "desi",
+    "text": "Indian mom ka GPS: tum kitne bhi door ho, \"Khana khaya?\" ka signal hamesha full aata hai.",
+    "tags": [
+      "mom",
+      "food"
+    ],
+    "popularity": 87,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0018",
+    "title": "Traffic Rule",
+    "language": "hinglish",
+    "category": "desi",
+    "text": "Desi traffic rule: horn bajao. Light green ho, red ho, ya bas mood kharab ho.",
+    "tags": [
+      "traffic",
+      "horn"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0019",
+    "title": "Bas 10 Minute AC",
+    "language": "hinglish",
+    "category": "desi",
+    "text": "Indian papa jab AC on karte hain: \"Bas 10 minute chalao, phir fan kar dena.\"",
+    "tags": [
+      "ac",
+      "dad"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0020",
+    "title": "Do Not Disturb",
+    "language": "hinglish",
+    "category": "office",
+    "text": "Boss: Weekend pe thoda kaam kar loge?\nEmployee: Sir, weekend pe toh mera phone bhi Do Not Disturb pe hota hai. Main toh insaan hun.",
+    "tags": [
+      "weekend",
+      "boss"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0021",
+    "title": "Monday Meeting",
+    "language": "hinglish",
+    "category": "office",
+    "text": "Monday meeting: 1 ghanta meeting, 5 minute ka kaam, aur 55 minute \"Aap mute pe ho.\"",
+    "tags": [
+      "meeting",
+      "mute"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0022",
+    "title": "Salary Aur EMI",
+    "language": "hinglish",
+    "category": "office",
+    "text": "Salary ek din ke mehmaan ki tarah aati hai, aur EMI ghar ke permanent member ki tarah rehti hai.",
+    "tags": [
+      "salary",
+      "emi"
+    ],
+    "popularity": 89,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0023",
+    "title": "Team Player",
+    "language": "hinglish",
+    "category": "office",
+    "text": "Resume: \"Excellent team player.\"\nReality: team lunch mein sabse pehle pahunchta hai.",
+    "tags": [
+      "resume",
+      "lunch"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0024",
+    "title": "Confidence 100%",
+    "language": "hinglish",
+    "category": "exam",
+    "text": "Syllabus: 20 chapters.\nMaine padhe: 2 chapters.\nMera confidence: 100%.",
+    "tags": [
+      "exam",
+      "confidence"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0025",
+    "title": "Pehle BP Check",
+    "language": "hinglish",
+    "category": "exam",
+    "text": "Papa: Result mein kitne marks aaye?\nMain: Papa, pehle aap apna BP check kar lo.",
+    "tags": [
+      "result",
+      "dad"
+    ],
+    "popularity": 87,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0026",
+    "title": "Personal Dushman",
+    "language": "hinglish",
+    "category": "exam",
+    "text": "Question paper dekhke laga ki paper setter mera personal dushman hai.",
+    "tags": [
+      "exam",
+      "paper"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0027",
+    "title": "Safai Wala Exam",
+    "language": "hinglish",
+    "category": "exam",
+    "text": "Padhne baitha toh yaad aaya table saaf karni hai. Phir room. Phir poora ghar. Exam ne mujhe safai karna sikha diya.",
+    "tags": [
+      "study",
+      "cleaning"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0028",
+    "title": "Knowledge Loading",
+    "language": "hinglish",
+    "category": "college",
+    "text": "College life: attendance 60%, canteen 100%, knowledge \"loading...\"",
+    "tags": [
+      "attendance",
+      "canteen"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0029",
+    "title": "Proxy Kisne Lagayi",
+    "language": "hinglish",
+    "category": "college",
+    "text": "Professor: Proxy kisne lagayi?\nPoori class: Sir, jisne lagayi woh aaj aaya hi nahi.",
+    "tags": [
+      "proxy",
+      "attendance"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0030",
+    "title": "Namaste Zyada Khushi Se",
+    "language": "hinglish",
+    "category": "kids",
+    "text": "Chintu: Mummy, mehmaan aayein toh kya bolna hai?\nMummy: Namaste.\nChintu: Aur jab jaayein?\nMummy: Wahi, bas thoda zyada khush hoke.",
+    "tags": [
+      "guests",
+      "namaste"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0031",
+    "title": "Dadi Ka Zamana",
+    "language": "hinglish",
+    "category": "kids",
+    "text": "Chintu: Dadi, aapke time pe mobile tha?\nDadi: Nahi.\nChintu: Toh aap log time pass kaise karte the?\nDadi: Ek dusre se baat karke.\nChintu: Itna mushkil kaam?",
+    "tags": [
+      "grandma",
+      "phone"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0032",
+    "title": "Sota Hua Kaisa Lagta Hun",
+    "language": "hinglish",
+    "category": "santa-banta",
+    "text": "Santa: Banta, tu mirror ke saamne aankh band karke kyun khada hai?\nBanta: Dekh raha hun ki main sota hua kaisa lagta hun.",
+    "tags": [
+      "mirror",
+      "sleep"
+    ],
+    "popularity": 79,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0033",
+    "title": "Fridge Ki Light",
+    "language": "hinglish",
+    "category": "santa-banta",
+    "text": "Santa roz naye fridge ke saamne 10 minute baithta tha.\nBanta: Yeh kya kar raha hai?\nSanta: Dekh raha hun ki andar ki light kab band hoti hai.",
+    "tags": [
+      "fridge",
+      "light"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0034",
+    "title": "Window Se Mail",
+    "language": "hinglish",
+    "category": "santa-banta",
+    "text": "Banta: Santa, tu khidki se chitthi kyun phenk raha hai?\nSanta: Computer wale bhaiya ne kaha tha, mail Windows se bhejna.",
+    "tags": [
+      "email",
+      "windows",
+      "pun"
+    ],
+    "popularity": 75,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0035",
+    "title": "Seen Karke Reply",
+    "language": "hinglish",
+    "category": "girlfriend-boyfriend",
+    "text": "Girlfriend: Tum mujhe kitna pyaar karte ho?\nBoyfriend: Utna, jitna tum mujhe seen karke reply nahi karti.",
+    "tags": [
+      "seen",
+      "reply"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0036",
+    "title": "5 Minute Mein Ready",
+    "language": "hinglish",
+    "category": "girlfriend-boyfriend",
+    "text": "Girlfriend: Main 5 minute mein ready ho jaungi.\nBoyfriend (ek ghante baad): Maine web series ka poora season khatam kar diya.",
+    "tags": [
+      "ready",
+      "waiting"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0037",
+    "title": "Shirt Badli Hai",
+    "language": "hinglish",
+    "category": "girlfriend-boyfriend",
+    "text": "Girlfriend: Tum badal gaye ho.\nBoyfriend: Sirf shirt badli hai. Aadmi wahi hun.",
+    "tags": [
+      "dating"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0038",
+    "title": "Aakhri Fries",
+    "language": "hinglish",
+    "category": "love",
+    "text": "Pyaar ka sabse bada saboot: usne apni aakhri fries mujhe de di.",
+    "tags": [
+      "fries",
+      "food",
+      "romance"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0039",
+    "title": "Crush Ka Hmm",
+    "language": "hinglish",
+    "category": "love",
+    "text": "Crush ka \"hmm\" reply bhi aisa lagta hai jaise poori poetry mil gayi ho.",
+    "tags": [
+      "crush",
+      "reply"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0040",
+    "title": "Educational Channel",
+    "language": "hinglish",
+    "category": "family",
+    "text": "Papa: TV band karo aur padhai karo.\nBeta: Papa, yeh educational channel hai.\nPapa: Achha? Toh remote mujhe do. Main bhi educate ho jaata hun.",
+    "tags": [
+      "tv",
+      "dad"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0041",
+    "title": "Consistent Hun",
+    "language": "hinglish",
+    "category": "family",
+    "text": "Mummy: Room kab saaf karoge?\nMain: Kal.\nMummy: Kal bhi yahi bola tha.\nMain: Dekha? Main kitna consistent hun.",
+    "tags": [
+      "room",
+      "mom"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0042",
+    "title": "Aap Jaisa Banunga",
+    "language": "hinglish",
+    "category": "father-son",
+    "text": "Beta: Papa, main bada hoke bilkul aap jaisa banunga.\nPapa: Achha? Kyun?\nBeta: Taaki main bhi kisi ko padhai ka lecture de sakun.",
+    "tags": [
+      "dad",
+      "lecture"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0043",
+    "title": "Good News Bad News",
+    "language": "hinglish",
+    "category": "father-son",
+    "text": "Papa: Result dikhao.\nBeta: Papa, pehle good news: class mein sabse fast answer main likhta hun.\nPapa: Aur bad news?\nBeta: Sab galat hote hain.",
+    "tags": [
+      "result",
+      "dad"
+    ],
+    "popularity": 87,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0044",
+    "title": "Bhookh Nahi Hai",
+    "language": "hinglish",
+    "category": "mother-son",
+    "text": "Mummy: Kuch kha le.\nBeta: Bhookh nahi hai.\nMummy: Toh thoda sa kha le.\n(10 minute baad plate mein 6 rotiyaan.)",
+    "tags": [
+      "mom",
+      "food",
+      "roti"
+    ],
+    "popularity": 89,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0045",
+    "title": "Maine Dhoondh Liya Toh",
+    "language": "hinglish",
+    "category": "mother-son",
+    "text": "Mummy: Agar maine dhoondh liya na, toh phir dekhna!\n(Mummy ne 5 second mein dhoondh liya.)",
+    "tags": [
+      "mom",
+      "searching"
+    ],
+    "popularity": 90,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0046",
+    "title": "47 Photos",
+    "language": "hinglish",
+    "category": "brother-sister",
+    "text": "Behen: Bhaiya, meri ek photo kheench do.\nBhai: Theek hai.\n(47 photos baad)\nBehen: Ek bhi achhi nahi aayi. Rehne do, tumse nahi hoga.",
+    "tags": [
+      "photo",
+      "siblings"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0047",
+    "title": "Bhai Ki Salary",
+    "language": "hinglish",
+    "category": "brother-sister",
+    "text": "Bhai ki salary aane se pehle hi behen ka shopping cart ready hota hai.",
+    "tags": [
+      "salary",
+      "shopping",
+      "siblings"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0048",
+    "title": "Main Dekh Leta Hun",
+    "language": "hinglish",
+    "category": "marriage",
+    "text": "Shaadi mein sabse zyada kaam \"Main dekh leta hun\" bolne waale uncle karte hain. Woh sirf dekhte hain.",
+    "tags": [
+      "wedding",
+      "uncle"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0049",
+    "title": "Upasthiti Prarthniya",
+    "language": "hinglish",
+    "category": "marriage",
+    "text": "Shaadi ka card: \"Aapki upasthiti prarthniya hai.\"\nAsli matlab: \"Khaana hai, gift mat bhoolna.\"",
+    "tags": [
+      "wedding",
+      "card",
+      "gift"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0050",
+    "title": "Family Group",
+    "language": "hinglish",
+    "category": "whatsapp",
+    "text": "Family WhatsApp group: ek message, 40 thumbs-up, aur ek uncle ka \"Kya matlab?\"",
+    "tags": [
+      "family",
+      "group",
+      "uncle"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0051",
+    "title": "Main So Gaya Tha",
+    "language": "hinglish",
+    "category": "whatsapp",
+    "text": "Seen: raat 2:14 baje. Reply: agle din. Excuse: \"Main so gaya tha.\"",
+    "tags": [
+      "seen",
+      "reply"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0052",
+    "title": "Neend Aur Wi-Fi",
+    "language": "hinglish",
+    "category": "one-liner",
+    "text": "Neend aur Wi-Fi mein ek cheez same hai: dono tab jaate hain jab sabse zyada zaroorat hoti hai.",
+    "tags": [
+      "sleep",
+      "wifi"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0053",
+    "title": "Diet Kal Se",
+    "language": "hinglish",
+    "category": "one-liner",
+    "text": "Diet kal se. Aaj toh samose ne itne pyaar se dekha.",
+    "tags": [
+      "diet",
+      "samosa"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0054",
+    "title": "Balance Aur Attendance",
+    "language": "hinglish",
+    "category": "one-liner",
+    "text": "Mera bank balance aur meri attendance, dono dekhke dar lagta hai.",
+    "tags": [
+      "money",
+      "attendance"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0055",
+    "title": "Bas 5 Minute",
+    "language": "hinglish",
+    "category": "one-liner",
+    "text": "Alarm 6 baje ka, uthna 8 baje, aur beech mein \"bas 5 minute\" saat baar.",
+    "tags": [
+      "alarm",
+      "morning"
+    ],
+    "popularity": 87,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0056",
+    "title": "Bandar Insaan Kyun Nahi",
+    "language": "hinglish",
+    "category": "funny-questions",
+    "text": "Agar insaan bandar se bane, toh baaki bandar ab tak insaan kyun nahi bane? Shayad unhe office jaana pasand nahi.",
+    "tags": [
+      "monkey",
+      "office"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0057",
+    "title": "Woh Ek Din",
+    "language": "hinglish",
+    "category": "funny-questions",
+    "text": "Sab kehte hain, \"Ek din sab theek ho jaayega.\" Woh ek din kaunsi date ko hai?",
+    "tags": [
+      "life",
+      "question"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0058",
+    "title": "Aaj Monday Nahi Hai",
+    "language": "hinglish",
+    "category": "funny-answers",
+    "text": "Q: Aaj itne khush kyun ho?\nA: Aaj Monday nahi hai.\nQ: Aaj Tuesday hai.\nA: Haan, isiliye.",
+    "tags": [
+      "monday"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0059",
+    "title": "Weekend Plan",
+    "language": "hinglish",
+    "category": "funny-answers",
+    "text": "Q: Weekend ka plan kya hai?\nA: Plan banana. Phir cancel karna. Phir sona.",
+    "tags": [
+      "weekend",
+      "sleep"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0060",
+    "title": "Gussa Kab Aata Hai",
+    "language": "hinglish",
+    "category": "funny-answers",
+    "text": "Q: Tumhe gussa kab aata hai?\nA: Jab biscuit chai mein dub ke toot jaata hai.",
+    "tags": [
+      "chai",
+      "biscuit"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0061",
+    "title": "Mehmaan Wala Tone",
+    "language": "hinglish",
+    "category": "desi-family",
+    "text": "Mehmaan ke saamne mummy: \"Beta, zara paani le aana.\"\nMehmaan ke jaane ke baad: \"Ab kya aarti utaarun? Khud utho!\"",
+    "tags": [
+      "mom",
+      "guests"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0062",
+    "title": "Sharma Ji Ka Beta",
+    "language": "hinglish",
+    "category": "desi-family",
+    "text": "Indian ghar mein koi bhi baat ho, ghoom-phir ke Sharma ji ke bete tak pahunch hi jaati hai.",
+    "tags": [
+      "sharma-ji",
+      "comparison"
+    ],
+    "popularity": 87,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0063",
+    "title": "Humare Zamane Mein",
+    "language": "hinglish",
+    "category": "desi-family",
+    "text": "Dadi ka favourite dialogue: \"Humare zamane mein...\" aur phir 45 minute ka free entertainment.",
+    "tags": [
+      "grandma",
+      "stories"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0064",
+    "title": "PT Period",
+    "language": "hinglish",
+    "category": "school",
+    "text": "PT period: plan 40 minute ka, milta 10 minute, baaki 30 minute \"line seedhi karo.\"",
+    "tags": [
+      "pt",
+      "sports"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0065",
+    "title": "Kal Sunday Hai",
+    "language": "hinglish",
+    "category": "school",
+    "text": "Pappu: Ma'am, main kal school nahi aa paunga.\nMa'am: Kyun?\nPappu: Kal Sunday hai, ma'am.",
+    "tags": [
+      "pappu",
+      "sunday"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0066",
+    "title": "Kutte Ka Comment Section",
+    "language": "hinglish",
+    "category": "animal",
+    "text": "Billi: Tum har kisi ko dekhke bhaunkte kyun ho?\nKutta: Mere paas social media nahi hai. Yahi mera comment section hai.",
+    "tags": [
+      "dog",
+      "cat",
+      "social-media"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0067",
+    "title": "Macchar Ka Audition",
+    "language": "hinglish",
+    "category": "animal",
+    "text": "Macchar raat ko kaan mein aake aise gaata hai, jaise usse bhi kisi singing show ka audition dena ho.",
+    "tags": [
+      "mosquito",
+      "singing"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0068",
+    "title": "Storage Full",
+    "language": "hinglish",
+    "category": "funny",
+    "text": "Mera phone \"Storage Full\" dikhata hai, aur main bhi khaana khaane ke baad yahi feel karta hun.",
+    "tags": [
+      "phone",
+      "food"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0069",
+    "title": "Gym Ka Pasina",
+    "language": "hinglish",
+    "category": "funny",
+    "text": "Gym join kiya. Pehle hi din itna pasina aaya... sirf fees sunke.",
+    "tags": [
+      "gym",
+      "fees"
+    ],
+    "popularity": 87,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HG-0070",
+    "title": "Fridge Mein Naya Answer",
+    "language": "hinglish",
+    "category": "funny",
+    "text": "Raat ko baar-baar fridge kholna aisa hai, jaise 5 minute mein andar kuch naya aa gaya hoga.",
+    "tags": [
+      "fridge",
+      "night"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  }
+]

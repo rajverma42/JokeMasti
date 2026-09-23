@@ -1,42 +1,31 @@
 {
   "name": "JokeMasti",
-  "tagline": "Hasi Ka Daily Dose!",
-  "shortName": "JokeMasti",
+  "tagline": "Har Din Hasi Ka Dose!",
   "url": "https://jokemasti.com",
-  "locale": "hi_IN",
-  "lang": "hi",
-  "themeColor": "#F4541D",
-  "backgroundColor": "#FBF7F4",
-  "description": "JokeMasti par padhiye sabse funny Hindi jokes, Hinglish chutkule aur festival wishes. Ek tap me copy aur share — bina login ke.",
-  "keywords": [
-    "hindi jokes",
-    "funny jokes",
-    "whatsapp jokes",
-    "hinglish jokes",
-    "festival jokes",
-    "trending jokes"
-  ],
-  "contactEmail": "hello@jokemasti.com",
-  "legalEntity": "JokeMasti",
-  "twitterHandle": "@jokemasti",
-  "startYear": 2026,
+  "email": "hello@jokemasti.com",
+  "copyrightEmail": "copyright@jokemasti.com",
+  "legalLastUpdated": "2026-09-23",
+  "perPage": 24,
+  "shortMaxChars": 160,
+  "mediumMaxChars": 360,
+  "minJokesForTagPage": 3,
+  "minJokesForLanguageCategoryPage": 3,
+  "copyIncludesLink": false,
   "ads": {
     "enabled": false,
-    "client": "ca-pub-XXXXXXXXXXXXXXXX",
-    "note": "Set enabled:true and replace client with your real AdSense publisher ID. Slot IDs go in each ad slot's data-ad-slot in build.js."
-  },
-  "analytics": {
-    "enabled": false,
-    "provider": "",
-    "id": ""
-  },
-  "statsEndpoint": "",
-  "social": {
-    "instagram": "",
-    "facebook": "",
-    "x": "",
-    "telegram": "",
-    "youtube": ""
-  },
-  "perPage": 12
+    "client": "",
+    "slots": {
+      "home-below-hero": "",
+      "home-mid": "",
+      "home-before-footer": "",
+      "list-after-first": "",
+      "list-mid": "",
+      "list-before-pagination": "",
+      "joke-above-related": "",
+      "joke-mid": "",
+      "joke-before-footer": "",
+      "category-top": "",
+      "category-bottom": ""
+    }
+  }
 }

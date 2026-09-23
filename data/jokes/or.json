@@ -1,0 +1,66 @@
+[
+  {
+    "id": "JM-OR-0001",
+    "title": "ଶୋଇଥିବା ଘଣ୍ଟା",
+    "language": "or",
+    "category": "teacher-student",
+    "text": "ଶିକ୍ଷକ: ତୁମେ ଡେରିରେ କାହିଁକି ଆସିଲ?\nଛାତ୍ର: ସାର୍, ଘଣ୍ଟା ଶୋଇଥିଲା, ମୁଁ ବି ତା ସହିତ ଶୋଇଗଲି।",
+    "tags": [
+      "late",
+      "clock"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-OR-0002",
+    "title": "ଆଉ ଟିକେ ପଖାଳ",
+    "language": "or",
+    "category": "mother-son",
+    "text": "ମାଆ: ଖାଇଲୁ?\nପୁଅ: ହଁ ମାଆ।\nମାଆ: ତେବେ ଆଉ ଟିକେ ପଖାଳ ଖା।",
+    "tags": [
+      "mom",
+      "pakhala"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-OR-0003",
+    "title": "ଫ୍ୟାନ୍ ବନ୍ଦ",
+    "language": "or",
+    "category": "family",
+    "text": "ଗ୍ରୀଷ୍ମ ଦିନରେ ଫ୍ୟାନ୍ ବନ୍ଦ ହେଲେ, ଘରର ସମସ୍ତେ ଗୋଟିଏ ଦଳ ହୋଇଯାଆନ୍ତି।",
+    "tags": [
+      "summer",
+      "power-cut"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-OR-0004",
+    "title": "ଜହ୍ନର ସ୍କୁଲ",
+    "language": "or",
+    "category": "kids",
+    "text": "ପିଲା: ବାପା, ଜହ୍ନ କାହିଁକି ରାତିରେ ଆସେ?\nବାପା: ଦିନରେ ତା'ର ସ୍କୁଲ ଥାଏ।",
+    "tags": [
+      "moon",
+      "cute"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]

@@ -1,0 +1,1193 @@
+[
+  {
+    "id": "JM-HI-0001",
+    "title": "आम का काल",
+    "language": "hi",
+    "category": "teacher-student",
+    "text": "टीचर: \"मैंने आम खाया\" — यह कौन-सा काल है?\nछात्र: सर, बहुत अच्छा काल है। आम का मौसम चल रहा है!",
+    "tags": [
+      "grammar",
+      "school",
+      "mango"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0002",
+    "title": "फ्रिज में बर्फ",
+    "language": "hi",
+    "category": "teacher-student",
+    "text": "टीचर: बताओ, सबसे ज़्यादा बर्फ कहाँ पाई जाती है?\nछात्र: जी, हमारे फ्रिज में।",
+    "tags": [
+      "geography",
+      "school"
+    ],
+    "popularity": 72,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0003",
+    "title": "उड़ता होमवर्क",
+    "language": "hi",
+    "category": "teacher-student",
+    "text": "टीचर: तुम्हारा होमवर्क कहाँ है?\nछात्र: सर, किया था, पर हवा में उड़ गया।\nटीचर: और कॉपी?\nछात्र: वो भी उसे ढूँढने पीछे-पीछे गई।",
+    "tags": [
+      "homework",
+      "school"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0004",
+    "title": "सूरज पूरब से",
+    "language": "hi",
+    "category": "teacher-student",
+    "text": "टीचर: पप्पू, सूरज पूरब से क्यों निकलता है?\nपप्पू: क्योंकि पश्चिम में उसकी कोई जान-पहचान नहीं है।",
+    "tags": [
+      "pappu",
+      "science"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0005",
+    "title": "आख़िरी बेंच",
+    "language": "hi",
+    "category": "teacher-student",
+    "text": "टीचर: पप्पू, तुम हमेशा आख़िरी बेंच पर क्यों बैठते हो?\nपप्पू: सर, वहाँ से पूरी क्लास दिखती है, और आप मुझे कम देख पाते हैं।",
+    "tags": [
+      "pappu",
+      "class"
+    ],
+    "popularity": 77,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0006",
+    "title": "आलस पर निबंध",
+    "language": "hi",
+    "category": "teacher-student",
+    "text": "टीचर ने कहा, \"आलस पर निबंध लिखो।\"\nपप्पू ने पूरा पन्ना ख़ाली छोड़ा और आख़िर में लिखा — \"यही है आलस।\"",
+    "tags": [
+      "essay",
+      "pappu",
+      "lazy"
+    ],
+    "popularity": 83,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0007",
+    "title": "ज्ञान की बचत",
+    "language": "hi",
+    "category": "teacher-student",
+    "text": "टीचर: तुम क्लास में कभी जवाब क्यों नहीं देते?\nछात्र: सर, आप ही ने कहा था कि ज्ञान बहुत कीमती है। मैं बचाकर रख रहा हूँ।",
+    "tags": [
+      "class",
+      "knowledge"
+    ],
+    "popularity": 71,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0008",
+    "title": "बैटरी की बचत",
+    "language": "hi",
+    "category": "doctor-patient",
+    "text": "मरीज़: डॉक्टर साहब, रात को नींद नहीं आती।\nडॉक्टर: सोने से पहले मोबाइल बंद कर दिया करो।\nमरीज़: उससे नींद आ जाएगी?\nडॉक्टर: पता नहीं, पर बैटरी ज़रूर बच जाएगी।",
+    "tags": [
+      "sleep",
+      "phone"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0009",
+    "title": "आराम की बीमारी",
+    "language": "hi",
+    "category": "doctor-patient",
+    "text": "डॉक्टर: आपको आराम की ज़रूरत है।\nमरीज़: पर मैं तो दिन भर आराम ही करता हूँ।\nडॉक्टर: तो अब थोड़ा काम कीजिए। आप आराम से ही बीमार हुए हैं।",
+    "tags": [
+      "rest",
+      "lazy"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0010",
+    "title": "सिर हिलाने वाली कसरत",
+    "language": "hi",
+    "category": "doctor-patient",
+    "text": "मरीज़: डॉक्टर साहब, वज़न कैसे कम होगा?\nडॉक्टर: रोज़ सिर को दाएँ-बाएँ हिलाइए।\nमरीज़: कितनी बार?\nडॉक्टर: जब भी कोई मिठाई ऑफ़र करे।",
+    "tags": [
+      "diet",
+      "sweets"
+    ],
+    "popularity": 84,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0011",
+    "title": "नॉर्मल फीस",
+    "language": "hi",
+    "category": "doctor-patient",
+    "text": "डॉक्टर: आपकी सारी रिपोर्ट नॉर्मल हैं।\nमरीज़: बढ़िया! तो फीस भी नॉर्मल ही लीजिएगा।",
+    "tags": [
+      "fees",
+      "report"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0012",
+    "title": "चारों बैठ जाइए",
+    "language": "hi",
+    "category": "doctor-patient",
+    "text": "मरीज़: डॉक्टर साहब, मुझे हर चीज़ दो-दो दिखाई देती है।\nडॉक्टर: आप चारों बैठ जाइए।",
+    "tags": [
+      "eyes",
+      "hospital"
+    ],
+    "popularity": 82,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0013",
+    "title": "बाहर का खाना",
+    "language": "hi",
+    "category": "husband-wife",
+    "text": "पत्नी: आज खाने में क्या बनाऊँ?\nपति: जो तुम्हें अच्छा लगे।\nपत्नी: मुझे तो बाहर का खाना अच्छा लगता है।\nपति: ...मैंने कुछ कहा ही नहीं।",
+    "tags": [
+      "dinner",
+      "couple"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0014",
+    "title": "गृह मंत्री",
+    "language": "hi",
+    "category": "husband-wife",
+    "text": "पति: मैं इस घर का राजा हूँ!\nपत्नी: ज़रूर। और मैं गृह मंत्री हूँ — बजट मेरे पास है।",
+    "tags": [
+      "couple",
+      "budget"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0015",
+    "title": "होटल की तारीफ़",
+    "language": "hi",
+    "category": "husband-wife",
+    "text": "पति: आज खाना बहुत अच्छा बना है!\nपत्नी: होटल से मँगाया है।\nपति: मुझे पता था। इसीलिए तो तारीफ़ की।",
+    "tags": [
+      "couple",
+      "food"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0016",
+    "title": "मायके की टिकट",
+    "language": "hi",
+    "category": "husband-wife",
+    "text": "पत्नी: मैं मायके जा रही हूँ!\nपति: टिकट मैं बुक कर दूँ?\nपत्नी: ...अब तो बिल्कुल नहीं जाऊँगी।",
+    "tags": [
+      "couple",
+      "maayka"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0017",
+    "title": "फ़ोन वाला प्यार",
+    "language": "hi",
+    "category": "husband-wife",
+    "text": "पत्नी: आप मुझसे कितना प्यार करते हो?\nपति: जितना तुम मेरे फ़ोन से करती हो।\nपत्नी: मतलब?\nपति: मैं भी तुम्हें हर दस मिनट में चेक करता हूँ।",
+    "tags": [
+      "couple",
+      "phone"
+    ],
+    "popularity": 75,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0018",
+    "title": "फ़ोटो कौन खींचेगा",
+    "language": "hi",
+    "category": "santa-banta",
+    "text": "संता: बंता, मैंने नया फ़ोन लिया है।\nबंता: वाह! कैमरा कैसा है?\nसंता: पता नहीं, अभी तक किसी ने मेरी फ़ोटो ही नहीं खींची।",
+    "tags": [
+      "phone",
+      "camera"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0019",
+    "title": "दो घड़ियाँ",
+    "language": "hi",
+    "category": "santa-banta",
+    "text": "बंता: संता, तुम दो घड़ियाँ क्यों पहनते हो?\nसंता: एक में टाइम देखता हूँ, दूसरी में ये कि पहली सही है या नहीं।",
+    "tags": [
+      "watch",
+      "time"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0020",
+    "title": "मन में पढ़ाई",
+    "language": "hi",
+    "category": "santa-banta",
+    "text": "लाइट चली गई, फिर भी संता किताब खोलकर बैठा रहा।\nबंता: अँधेरे में कैसे पढ़ रहे हो?\nसंता: मैं मन में पढ़ रहा हूँ।",
+    "tags": [
+      "study",
+      "light"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0021",
+    "title": "सामान फ्री",
+    "language": "hi",
+    "category": "santa-banta",
+    "text": "संता: ऑटो वाले भैया, स्टेशन का कितना लोगे?\nऑटो वाला: सौ रुपये।\nसंता: और सामान का?\nऑटो वाला: सामान फ्री है।\nसंता: तो सामान ले जाओ, मैं पैदल आता हूँ।",
+    "tags": [
+      "auto",
+      "travel"
+    ],
+    "popularity": 86,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0022",
+    "title": "आसमान छूते दाम",
+    "language": "hi",
+    "category": "santa-banta",
+    "text": "बंता: संता, सीढ़ी लेकर बाज़ार क्यों जा रहे हो?\nसंता: सुना है वहाँ दाम आसमान छू रहे हैं।",
+    "tags": [
+      "prices",
+      "market",
+      "pun"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0023",
+    "title": "लिफ़ाफ़े में कंप्यूटर",
+    "language": "hi",
+    "category": "santa-banta",
+    "text": "संता ने ईमेल भेजने से पहले पूरा कंप्यूटर लिफ़ाफ़े में रख दिया।\nबंता: ये क्या कर रहे हो?\nसंता: ताकि मेल सुरक्षित पहुँचे।",
+    "tags": [
+      "email",
+      "computer"
+    ],
+    "popularity": 73,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0024",
+    "title": "पाँच मिनट में पहुँच रहा हूँ",
+    "language": "hi",
+    "category": "desi",
+    "text": "भारत में दो तरह के लोग होते हैं — एक जो कहते हैं \"बस पाँच मिनट में पहुँच रहा हूँ\", और दूसरे जो उस पर भरोसा कर लेते हैं।",
+    "tags": [
+      "late",
+      "indian"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0025",
+    "title": "मेहमानों वाले बिस्कुट",
+    "language": "hi",
+    "category": "desi",
+    "text": "मेहमान: अरे, इतनी तकलीफ़ क्यों की?\nमेज़बान: कोई तकलीफ़ नहीं।\nरसोई से आवाज़: पुराने बिस्कुट निकालो, नए वाले छुपा दो!",
+    "tags": [
+      "guests",
+      "biscuits"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0026",
+    "title": "पापा की जेब",
+    "language": "hi",
+    "category": "desi",
+    "text": "रिमोट खो जाए तो पूरा घर मिलकर ढूँढता है, और आख़िर में वो पापा की जेब में मिलता है।",
+    "tags": [
+      "remote",
+      "dad"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0027",
+    "title": "पनीर कम था",
+    "language": "hi",
+    "category": "desi",
+    "text": "शादी में खाना ख़त्म होते ही हर मेहमान एक ही समीक्षा देता है — \"खाना ठीक था, बस पनीर कम था।\"",
+    "tags": [
+      "wedding",
+      "food",
+      "paneer"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0028",
+    "title": "24 डिग्री का नियम",
+    "language": "hi",
+    "category": "desi",
+    "text": "भारतीय पापा का AC नियम: 24 डिग्री पर चलाओ, वरना बिल तुम भरोगे।",
+    "tags": [
+      "dad",
+      "ac",
+      "bill"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0029",
+    "title": "साथ में फेल",
+    "language": "hi",
+    "category": "friendship",
+    "text": "दोस्त वो होता है जो तुम्हारे फेल होने पर दुखी हो, पर तुम्हारे साथ फेल होने पर पार्टी दे।",
+    "tags": [
+      "friends",
+      "exam"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0030",
+    "title": "उधार कितना",
+    "language": "hi",
+    "category": "friendship",
+    "text": "दोस्त: भाई, कुछ पैसे उधार चाहिए।\nमैं: कितने?\nदोस्त: बस उतने, जितने तुम कभी वापस नहीं माँगोगे।",
+    "tags": [
+      "money",
+      "friends"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0031",
+    "title": "फ़ोटो का सौदा",
+    "language": "hi",
+    "category": "friendship",
+    "text": "सच्चा दोस्त तुम्हारी ख़राब फ़ोटो तभी डिलीट करता है, जब तुम उसकी ख़राब फ़ोटो डिलीट करो।",
+    "tags": [
+      "photo",
+      "friends"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0032",
+    "title": "दौड़ता रिज़ल्ट",
+    "language": "hi",
+    "category": "family",
+    "text": "पापा: पढ़ाई कैसी चल रही है?\nबेटा: बढ़िया चल रही है, पापा।\nपापा: तो रिज़ल्ट दौड़ क्यों नहीं रहा?",
+    "tags": [
+      "result",
+      "dad",
+      "pun"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0033",
+    "title": "मम्मी और पापा",
+    "language": "hi",
+    "category": "family",
+    "text": "मम्मी: \"पापा को आने दो!\"\nपापा आने के बाद: \"मम्मी से पूछो।\"",
+    "tags": [
+      "parents"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0034",
+    "title": "वाई-फ़ाई बंद",
+    "language": "hi",
+    "category": "family",
+    "text": "घर का वाई-फ़ाई बंद होते ही पता चलता है कि घर में और लोग भी रहते हैं।",
+    "tags": [
+      "wifi",
+      "home"
+    ],
+    "popularity": 87,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0035",
+    "title": "दादी का खाना",
+    "language": "hi",
+    "category": "family",
+    "text": "दादी: बेटा, खाना खा लिया?\nपोता: हाँ दादी।\nदादी: तो थोड़ा और खा लो।",
+    "tags": [
+      "grandma",
+      "food"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0036",
+    "title": "सबसे अच्छा काम",
+    "language": "hi",
+    "category": "school",
+    "text": "पप्पू: माँ, आज मैंने स्कूल में सबसे अच्छा काम किया।\nमाँ: क्या किया?\nपप्पू: पूरे दिन चुप रहा। टीचर ने कहा, आज का सबसे अच्छा काम यही था।",
+    "tags": [
+      "pappu",
+      "quiet"
+    ],
+    "popularity": 75,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0037",
+    "title": "छुट्टी की घंटी",
+    "language": "hi",
+    "category": "school",
+    "text": "छुट्टी की घंटी जितनी मीठी लगती है, उतना मीठा कोई गाना नहीं लगता।",
+    "tags": [
+      "bell",
+      "school"
+    ],
+    "popularity": 77,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0038",
+    "title": "आराम से काम",
+    "language": "hi",
+    "category": "office",
+    "text": "बॉस: तुम रोज़ देर से क्यों आते हो?\nकर्मचारी: सर, आप ही ने तो कहा था कि काम आराम से करना।",
+    "tags": [
+      "late",
+      "boss"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0039",
+    "title": "सोमवार का सफ़र",
+    "language": "hi",
+    "category": "office",
+    "text": "सोमवार को ऑफ़िस जाते वक़्त लगता है कि छुट्टियाँ ख़त्म नहीं हुईं, छीन ली गई हैं।",
+    "tags": [
+      "monday",
+      "work"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0040",
+    "title": "कल कभी नहीं आता",
+    "language": "hi",
+    "category": "office",
+    "text": "बॉस: ये काम कल तक हो जाएगा?\nकर्मचारी: सर, कल तो कभी आता ही नहीं। रोज़ आज ही होता है।",
+    "tags": [
+      "deadline",
+      "boss"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0041",
+    "title": "पाँच साल बाद",
+    "language": "hi",
+    "category": "office",
+    "text": "इंटरव्यूअर: आप पाँच साल बाद ख़ुद को कहाँ देखते हैं?\nउम्मीदवार: आपकी कुर्सी पर, सर।\nइंटरव्यूअर: फ़िलहाल दरवाज़े तक चलिए।",
+    "tags": [
+      "interview",
+      "job"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0042",
+    "title": "कौन-सा चैप्टर ज़रूरी",
+    "language": "hi",
+    "category": "exam",
+    "text": "परीक्षा से एक महीना पहले: \"इस बार पूरी किताब पढ़ूँगा।\"\nपरीक्षा से एक रात पहले: \"कौन-सा चैप्टर ज़रूरी है?\"",
+    "tags": [
+      "exam",
+      "study"
+    ],
+    "popularity": 90,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0043",
+    "title": "दूसरे सिलेबस का पेपर",
+    "language": "hi",
+    "category": "exam",
+    "text": "प्रश्न-पत्र देखकर लगा कि या तो पेपर किसी और सिलेबस का है, या मैं किसी और क्लास में बैठा हूँ।",
+    "tags": [
+      "exam",
+      "paper"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0044",
+    "title": "भगवान को दस",
+    "language": "hi",
+    "category": "exam",
+    "text": "छात्र ने उत्तर में लिखा: \"भगवान जाने।\"\nटीचर ने लिखा: \"भगवान को 10 नंबर, तुम्हें 0।\"",
+    "tags": [
+      "exam",
+      "marks"
+    ],
+    "popularity": 83,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0045",
+    "title": "बगल वाले का रहस्य",
+    "language": "hi",
+    "category": "exam",
+    "text": "परीक्षा हॉल का सबसे बड़ा रहस्य: बगल वाला इतनी तेज़ी से आख़िर लिख क्या रहा है?",
+    "tags": [
+      "exam",
+      "hall"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0046",
+    "title": "चाँद की लाइट",
+    "language": "hi",
+    "category": "kids",
+    "text": "बच्चा: पापा, चाँद पर कौन रहता है?\nपापा: कोई नहीं, बेटा।\nबच्चा: तो वहाँ लाइट किसने जलाई?",
+    "tags": [
+      "moon",
+      "cute"
+    ],
+    "popularity": 72,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0047",
+    "title": "ख़ाली सिर",
+    "language": "hi",
+    "category": "kids",
+    "text": "बच्चा: मम्मी, पेट में दर्द है।\nमम्मी: पेट ख़ाली है, कुछ खा लो।\nथोड़ी देर बाद पापा: मेरे सिर में दर्द है।\nबच्चा: सिर ख़ाली होगा!",
+    "tags": [
+      "kids",
+      "dad"
+    ],
+    "popularity": 84,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0048",
+    "title": "अँधेरे की पहेली",
+    "language": "hi",
+    "category": "kids",
+    "text": "पहेली: ऐसी कौन-सी चीज़ है जो जितनी बढ़ती है, उतना कम दिखता है?\nजवाब: अँधेरा।",
+    "tags": [
+      "riddle"
+    ],
+    "popularity": 70,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0049",
+    "title": "लड्डू चोर",
+    "language": "hi",
+    "category": "kids",
+    "text": "टिंकू: मम्मी, भगवान हमेशा हमें देखते हैं?\nमम्मी: हाँ, बेटा।\nटिंकू: तो जो लड्डू मैंने उठाया, वो भी देखा?\nमम्मी: ...लड्डू तुमने उठाया था?",
+    "tags": [
+      "laddoo",
+      "sweets"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0050",
+    "title": "चश्मे वाला बंदर",
+    "language": "hi",
+    "category": "animal",
+    "text": "बंदर ने चश्मा पहनकर कहा, \"अब मैं इंसानों जैसा दिखता हूँ।\"\nहाथी बोला, \"बस उनकी तरह दिन भर फ़ोन में मत घुसे रहना।\"",
+    "tags": [
+      "monkey",
+      "elephant",
+      "phone"
+    ],
+    "popularity": 73,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0051",
+    "title": "मुर्गा और अलार्म",
+    "language": "hi",
+    "category": "animal",
+    "text": "मुर्गा: मैं रोज़ सुबह बाँग देता हूँ, फिर भी कोई तारीफ़ नहीं करता।\nअलार्म घड़ी: तुम्हें कम से कम कोई बंद तो नहीं करता।",
+    "tags": [
+      "alarm",
+      "morning"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0052",
+    "title": "मच्छर की तालियाँ",
+    "language": "hi",
+    "category": "animal",
+    "text": "मच्छर माँ: बेटा, आज पहली बार बाहर गए थे, कैसा रहा?\nबच्चा: बहुत बढ़िया! जहाँ भी गया, लोग तालियाँ बजा रहे थे।",
+    "tags": [
+      "mosquito"
+    ],
+    "popularity": 86,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0053",
+    "title": "नंबरों की दुकान",
+    "language": "hi",
+    "category": "father-son",
+    "text": "बेटा: पापा, मुझे साइकिल चाहिए।\nपापा: पहले अच्छे नंबर लाओ।\nबेटा: पापा, अच्छे नंबर किस दुकान पर मिलते हैं?",
+    "tags": [
+      "marks",
+      "cycle"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0054",
+    "title": "सुबह पाँच बजे",
+    "language": "hi",
+    "category": "father-son",
+    "text": "पापा: मैं तुम्हारी उम्र में रोज़ सुबह पाँच बजे उठता था।\nबेटा: पापा, तब मोबाइल भी तो नहीं था।",
+    "tags": [
+      "morning",
+      "phone",
+      "dad"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0055",
+    "title": "जैकेट का ठंड",
+    "language": "hi",
+    "category": "mother-son",
+    "text": "माँ: बाहर जा रहे हो तो जैकेट पहन लो।\nबेटा: माँ, मुझे ठंड नहीं लग रही।\nमाँ: मुझे लग रही है। पहन लो।",
+    "tags": [
+      "mom",
+      "winter"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0056",
+    "title": "बिस्कुट का डिब्बा",
+    "language": "hi",
+    "category": "mother-son",
+    "text": "माँ की रसोई का नियम: जो डिब्बा बिस्कुट का दिखता है, उसमें सिलाई का सामान निकलता है।",
+    "tags": [
+      "mom",
+      "kitchen"
+    ],
+    "popularity": 89,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0057",
+    "title": "पिछले साल का गिफ़्ट",
+    "language": "hi",
+    "category": "brother-sister",
+    "text": "बहन: भैया, इस राखी पर क्या दोगे?\nभाई: वही गिफ़्ट, जो तुमने पिछले साल मुझे दिया था। पैकिंग भी वही है।",
+    "tags": [
+      "rakhi",
+      "gift",
+      "siblings"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0058",
+    "title": "मम्मी की डाँट",
+    "language": "hi",
+    "category": "brother-sister",
+    "text": "भाई-बहन दिन भर लड़ते हैं, पर मम्मी की डाँट के वक़्त एक-दूसरे के वकील बन जाते हैं।",
+    "tags": [
+      "siblings"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0059",
+    "title": "आजकल क्या कर रहे हो",
+    "language": "hi",
+    "category": "desi-family",
+    "text": "रिश्तेदार: बेटा, आजकल क्या कर रहे हो?\nमैं: आंटी, वही जो आप पिछले साल पूछ रही थीं।",
+    "tags": [
+      "relatives",
+      "aunty"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0060",
+    "title": "टीवी से दूर",
+    "language": "hi",
+    "category": "desi-family",
+    "text": "मम्मी: टीवी से दूर बैठो, आँखें ख़राब हो जाएँगी।\nशाम को वही मम्मी: थोड़ा सरको, सीरियल ठीक से नहीं दिख रहा।",
+    "tags": [
+      "mom",
+      "tv"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0061",
+    "title": "पॉलिथीन का ख़ज़ाना",
+    "language": "hi",
+    "category": "desi-family",
+    "text": "भारतीय घर की सबसे कीमती चीज़: वो पॉलिथीन, जिसमें और पॉलिथीन रखी होती हैं।",
+    "tags": [
+      "indian",
+      "home"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0062",
+    "title": "कल का प्लान",
+    "language": "hi",
+    "category": "one-liner",
+    "text": "सुबह जल्दी उठने का प्लान रोज़ बनता है, बस हर रोज़ अगले दिन पर टल जाता है।",
+    "tags": [
+      "morning",
+      "lazy"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0063",
+    "title": "बैंक की ब्रांच",
+    "language": "hi",
+    "category": "one-liner",
+    "text": "पैसे पेड़ पर नहीं उगते, फिर भी बैंकों की इतनी ब्रांच क्यों होती हैं?",
+    "tags": [
+      "money",
+      "pun"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0064",
+    "title": "दो मुश्किल काम",
+    "language": "hi",
+    "category": "one-liner",
+    "text": "ज़िंदगी में दो ही काम सबसे मुश्किल हैं: सुबह उठना और रात को सोना।",
+    "tags": [
+      "sleep",
+      "life"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0065",
+    "title": "डाइट के नियम",
+    "language": "hi",
+    "category": "one-liner",
+    "text": "मेरी डाइट का पहला नियम: मिठाई देखकर मना करना। दूसरा नियम: पहला नियम भूल जाना।",
+    "tags": [
+      "diet",
+      "sweets"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0066",
+    "title": "एक प्रतिशत",
+    "language": "hi",
+    "category": "one-liner",
+    "text": "मोबाइल की बैटरी और मेरा धैर्य, दोनों शाम तक 1% पर आ जाते हैं।",
+    "tags": [
+      "phone",
+      "patience"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0067",
+    "title": "रविवार का डर",
+    "language": "hi",
+    "category": "one-liner",
+    "text": "रविवार इतनी जल्दी ख़त्म होता है, जैसे उसे भी सोमवार से डर लगता हो।",
+    "tags": [
+      "sunday",
+      "monday"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0068",
+    "title": "पानीवाला",
+    "language": "hi",
+    "category": "funny-questions",
+    "text": "अगर दूधवाला दूध देता है, तो पानीवाला किसे पानी देता है... दूधवाले को?",
+    "tags": [
+      "milk",
+      "question"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0069",
+    "title": "मुफ़्त का सोना",
+    "language": "hi",
+    "category": "funny-questions",
+    "text": "अगर सोना इतना महँगा है, तो लोग रात भर मुफ़्त में क्यों सोते हैं?",
+    "tags": [
+      "gold",
+      "sleep",
+      "pun"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0070",
+    "title": "समय और घड़ीवाले",
+    "language": "hi",
+    "category": "funny-questions",
+    "text": "अगर समय ही पैसा है, तो घड़ी बेचने वाले सबसे अमीर क्यों नहीं होते?",
+    "tags": [
+      "time",
+      "money"
+    ],
+    "popularity": 75,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0071",
+    "title": "सबसे बड़ी ताक़त",
+    "language": "hi",
+    "category": "funny-answers",
+    "text": "सवाल: तुम्हारी सबसे बड़ी ताक़त क्या है?\nजवाब: रात को बिना आवाज़ किए फ्रिज से मिठाई ढूँढ लेना।",
+    "tags": [
+      "sweets",
+      "fridge"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0072",
+    "title": "आराम करती किताबें",
+    "language": "hi",
+    "category": "funny-answers",
+    "text": "सवाल: पढ़ाई क्यों नहीं कर रहे?\nजवाब: किताबें आराम कर रही हैं। उन्हें डिस्टर्ब करना ठीक नहीं।",
+    "tags": [
+      "study",
+      "books"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0073",
+    "title": "रविवार का प्लान",
+    "language": "hi",
+    "category": "funny-answers",
+    "text": "सवाल: रविवार को क्या करोगे?\nजवाब: वही जो हर रविवार करता हूँ — सोमवार से डरूँगा।",
+    "tags": [
+      "sunday",
+      "monday"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0074",
+    "title": "असाइनमेंट वाला प्यार",
+    "language": "hi",
+    "category": "love",
+    "text": "उसने पूछा: \"मेरे लिए कुछ भी कर सकते हो?\"\nमैंने कहा: \"हाँ।\"\nउसने कहा: \"तो मेरा असाइनमेंट लिख दो।\"\nप्यार वहीं रुक गया।",
+    "tags": [
+      "assignment",
+      "romance"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0075",
+    "title": "प्यार और वाई-फ़ाई",
+    "language": "hi",
+    "category": "love",
+    "text": "प्यार और वाई-फ़ाई में एक समानता है — दोनों तभी तक अच्छे लगते हैं, जब तक सिग्नल पूरा आता है।",
+    "tags": [
+      "wifi",
+      "romance"
+    ],
+    "popularity": 77,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0076",
+    "title": "शादी के लड्डू",
+    "language": "hi",
+    "category": "marriage",
+    "text": "शादी के लड्डू जो खाए वो पछताए, जो न खाए वो भी पछताए — इसलिए समझदार लोग दो लड्डू खा लेते हैं।",
+    "tags": [
+      "wedding",
+      "laddoo"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0077",
+    "title": "कम बोलने वाली",
+    "language": "hi",
+    "category": "marriage",
+    "text": "शादी से पहले: \"तुम कितना कम बोलती हो।\"\nशादी के बाद: \"सुन रहे हो? तुम मेरी बात कभी सुनते ही नहीं!\"",
+    "tags": [
+      "wedding",
+      "couple"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0078",
+    "title": "कैंटीन में पढ़ाई",
+    "language": "hi",
+    "category": "college",
+    "text": "कॉलेज में सबसे ज़्यादा पढ़ाई दो जगह होती है: परीक्षा से पहले वाली रात में, और कैंटीन में।",
+    "tags": [
+      "canteen",
+      "study"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-HI-0079",
+    "title": "बीच में कैंटीन",
+    "language": "hi",
+    "category": "college",
+    "text": "प्रोफ़ेसर: तुम्हारी अटेंडेंस इतनी कम क्यों है?\nछात्र: सर, मैं रोज़ आता हूँ, पर आप तक पहुँच नहीं पाता। बीच में कैंटीन पड़ती है।",
+    "tags": [
+      "attendance",
+      "canteen"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  }
+]

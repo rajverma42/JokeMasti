@@ -1,0 +1,67 @@
+[
+  {
+    "id": "JM-TE-0001",
+    "title": "గడియారంతో పాటు",
+    "language": "te",
+    "category": "teacher-student",
+    "text": "టీచర్: ఎందుకు ఆలస్యం?\nవిద్యార్థి: సార్, గడియారం నెమ్మదిగా నడిచింది. నేను దానితో పాటే నడిచాను.",
+    "tags": [
+      "late",
+      "clock"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-TE-0002",
+    "title": "తలక్రిందుల పుస్తకం",
+    "language": "te",
+    "category": "mother-son",
+    "text": "అమ్మ: పుస్తకం తలక్రిందులుగా ఉంది కదా!\nకొడుకు: అమ్మా, నేను కష్టమైన పద్ధతిలో చదువుతున్నాను.",
+    "tags": [
+      "study",
+      "mom"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-TE-0003",
+    "title": "ఫ్రిజ్ కాపలా",
+    "language": "te",
+    "category": "animal",
+    "text": "కుక్క: నేను రాత్రంతా ఇంటికి కాపలా కాస్తాను.\nపిల్లి: నేను రాత్రంతా ఫ్రిజ్‌కి కాపలా కాస్తాను.",
+    "tags": [
+      "dog",
+      "cat",
+      "fridge"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-TE-0004",
+    "title": "సోమవారం అలారం",
+    "language": "te",
+    "category": "one-liner",
+    "text": "సోమవారం ఉదయం అలారం శబ్దమే ప్రపంచంలో అత్యంత భయంకరమైన సంగీతం.",
+    "tags": [
+      "monday",
+      "alarm"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]

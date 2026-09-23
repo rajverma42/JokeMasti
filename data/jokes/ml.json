@@ -1,0 +1,67 @@
+[
+  {
+    "id": "JM-ML-0001",
+    "title": "നീന്തി വന്ന ബസ്",
+    "language": "ml",
+    "category": "teacher-student",
+    "text": "ടീച്ചർ: നീ എന്താ വൈകിയത്?\nകുട്ടി: ടീച്ചറേ, മഴ കാരണം ബസ് നീന്തിയാണ് വന്നത്.",
+    "tags": [
+      "rain",
+      "late",
+      "bus"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-ML-0002",
+    "title": "മനസ്സിലെ പുസ്തകം",
+    "language": "ml",
+    "category": "mother-son",
+    "text": "അമ്മ: പഠിക്കുന്നുണ്ടോ?\nമകൻ: ഉണ്ട് അമ്മേ.\nഅമ്മ: എങ്കിൽ പുസ്തകം എവിടെ?\nമകൻ: അത് മനസ്സിലുണ്ട്.",
+    "tags": [
+      "study",
+      "mom"
+    ],
+    "popularity": 77,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-ML-0003",
+    "title": "ചായയില്ലാത്ത വൈകുന്നേരം",
+    "language": "ml",
+    "category": "one-liner",
+    "text": "ചായയില്ലാത്ത വൈകുന്നേരം പാട്ടില്ലാത്ത സിനിമ പോലെയാണ്.",
+    "tags": [
+      "tea",
+      "evening"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-ML-0004",
+    "title": "ആന എന്തിനാ വലുത്",
+    "language": "ml",
+    "category": "kids",
+    "text": "കുട്ടി: അച്ഛാ, ആന എന്തിനാ ഇത്ര വലുത്?\nഅച്ഛൻ: ചെറുതായാൽ ആരും അതിനെ ആന എന്ന് വിളിക്കില്ലല്ലോ.",
+    "tags": [
+      "elephant",
+      "cute"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]

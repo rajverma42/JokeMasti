@@ -1,0 +1,66 @@
+[
+  {
+    "id": "JM-BN-0001",
+    "title": "স্কুলের সামনে ধীরে",
+    "language": "bn",
+    "category": "teacher-student",
+    "text": "শিক্ষক: তুমি দেরি করলে কেন?\nছাত্র: স্যার, রাস্তায় লেখা ছিল \"ধীরে চলুন, সামনে স্কুল।\"",
+    "tags": [
+      "school",
+      "late"
+    ],
+    "popularity": 78,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-BN-0002",
+    "title": "মিষ্টির দোকান",
+    "language": "bn",
+    "category": "doctor-patient",
+    "text": "ডাক্তার: রোজ হাঁটবেন।\nরোগী: কতদূর হাঁটব?\nডাক্তার: যতদূর গেলে আর মিষ্টির দোকান চোখে পড়বে না।",
+    "tags": [
+      "walk",
+      "sweets"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-BN-0003",
+    "title": "বইয়ের পাহারাদার",
+    "language": "bn",
+    "category": "mother-son",
+    "text": "মা: পড়তে বসেছিস?\nছেলে: হ্যাঁ মা, বই খোলা আছে।\nমা: আর তুই কী করছিস?\nছেলে: বইটাকে পাহারা দিচ্ছি।",
+    "tags": [
+      "study",
+      "mom"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-BN-0004",
+    "title": "মাইনের দিন",
+    "language": "bn",
+    "category": "one-liner",
+    "text": "সোমবার এত তাড়াতাড়ি চলে আসে, অথচ মাইনের দিন আসতে এত দেরি কেন?",
+    "tags": [
+      "salary",
+      "monday"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]

@@ -1,0 +1,1669 @@
+[
+  {
+    "id": "JM-EN-0001",
+    "title": "The Past Tense of Think",
+    "language": "en",
+    "category": "teacher-student",
+    "text": "Teacher: What's the past tense of \"think\"?\nStudent: Thunk.\nTeacher: Don't think too hard about it.\nStudent: Too late. I already thunk.",
+    "tags": [
+      "grammar",
+      "school",
+      "english"
+    ],
+    "popularity": 72,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0002",
+    "title": "Asking Isn't Taking",
+    "language": "en",
+    "category": "teacher-student",
+    "text": "Teacher: If you have 10 chocolates and your friend asks for 3, how many do you have left?\nStudent: Ten.\nTeacher: Ten?\nStudent: He asked. Asking isn't taking.",
+    "tags": [
+      "maths",
+      "chocolate",
+      "school"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0003",
+    "title": "Two Days Starting with T",
+    "language": "en",
+    "category": "teacher-student",
+    "text": "Teacher: Name two days of the week that start with T.\nStudent: Today and Tomorrow.",
+    "tags": [
+      "school",
+      "days"
+    ],
+    "popularity": 70,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0004",
+    "title": "Same Dog Essay",
+    "language": "en",
+    "category": "teacher-student",
+    "text": "Teacher: Your essay on \"My Dog\" is exactly the same as your brother's.\nStudent: Same dog, ma'am.",
+    "tags": [
+      "essay",
+      "school",
+      "brother"
+    ],
+    "popularity": 78,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0005",
+    "title": "Formula for Water",
+    "language": "en",
+    "category": "teacher-student",
+    "text": "Teacher: What is the chemical formula for water?\nStudent: H, I, J, K, L, M, N, O.\nTeacher: What is that?\nStudent: You said it's H to O.",
+    "tags": [
+      "science",
+      "chemistry",
+      "school"
+    ],
+    "popularity": 80,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0006",
+    "title": "Minimalist Answer Sheet",
+    "language": "en",
+    "category": "teacher-student",
+    "text": "Teacher: Why is your answer sheet blank?\nStudent: It's a minimalist answer, sir. Less is more.\nTeacher: Then your marks will be minimalist too.",
+    "tags": [
+      "exam",
+      "school"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0007",
+    "title": "Angry Mountain",
+    "language": "en",
+    "category": "teacher-student",
+    "text": "Teacher: Who can tell me what a volcano is?\nStudent: A mountain that got so angry it blew its top.\nTeacher: Close enough. Also a description of me while checking your notebooks.",
+    "tags": [
+      "science",
+      "geography",
+      "school"
+    ],
+    "popularity": 68,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0008",
+    "title": "Homework Hijack",
+    "language": "en",
+    "category": "teacher-student",
+    "text": "Teacher: Where is your homework?\nStudent: I folded it into a paper plane and a sparrow hijacked it.\nTeacher: That's the most creative thing you've written all year.",
+    "tags": [
+      "homework",
+      "school"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0009",
+    "title": "Low Battery Patient",
+    "language": "en",
+    "category": "doctor-patient",
+    "text": "Patient: Doctor, I keep thinking I'm a mobile phone.\nDoctor: Please sit down and let me check.\nPatient: Can I sit near the plug point? I'm on 2%.",
+    "tags": [
+      "phone",
+      "hospital"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0010",
+    "title": "Spoon in the Tea",
+    "language": "en",
+    "category": "doctor-patient",
+    "text": "Patient: Doctor, every time I drink tea I get a sharp pain in my eye.\nDoctor: Try taking the spoon out first.",
+    "tags": [
+      "tea",
+      "hospital"
+    ],
+    "popularity": 75,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0011",
+    "title": "Daily Exercise",
+    "language": "en",
+    "category": "doctor-patient",
+    "text": "Doctor: You need to exercise every day.\nPatient: I already do. I jump to conclusions, run late and push my luck.",
+    "tags": [
+      "exercise",
+      "health"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0012",
+    "title": "Eat the Plate",
+    "language": "en",
+    "category": "doctor-patient",
+    "text": "Doctor: Your reports are in. Cut down on salt, sugar and oil.\nPatient: So what do I eat? The plate?",
+    "tags": [
+      "diet",
+      "health",
+      "food"
+    ],
+    "popularity": 71,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0013",
+    "title": "Slow Tooth Extraction",
+    "language": "en",
+    "category": "doctor-patient",
+    "text": "Patient: How much to pull this tooth?\nDentist: Two thousand rupees.\nPatient: For two minutes of work?\nDentist: I can do it slowly if you prefer.",
+    "tags": [
+      "dentist",
+      "money"
+    ],
+    "popularity": 81,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0014",
+    "title": "The Invisible Patient",
+    "language": "en",
+    "category": "doctor-patient",
+    "text": "Patient: Doctor, I feel invisible.\nDoctor: Next, please!",
+    "tags": [
+      "hospital",
+      "short"
+    ],
+    "popularity": 77,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0015",
+    "title": "Alarm Meeting",
+    "language": "en",
+    "category": "office",
+    "text": "Boss: You're late again.\nEmployee: Sorry sir, my alarm had a meeting with the snooze button, and it ran long.",
+    "tags": [
+      "late",
+      "alarm",
+      "work"
+    ],
+    "popularity": 73,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0016",
+    "title": "Two Computers",
+    "language": "en",
+    "category": "office",
+    "text": "Manager: Why do you have two computers open?\nEmployee: One for work and one to look busy when you walk by.\nManager: And which one is this?\nEmployee: ...The second one.",
+    "tags": [
+      "work",
+      "boss",
+      "computer"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0017",
+    "title": "Biggest Weakness",
+    "language": "en",
+    "category": "office",
+    "text": "HR: What's your biggest weakness?\nCandidate: Honesty.\nHR: I don't think honesty is a weakness.\nCandidate: I don't care what you think.",
+    "tags": [
+      "interview",
+      "hr",
+      "job"
+    ],
+    "popularity": 86,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0018",
+    "title": "Day Off to Clean",
+    "language": "en",
+    "category": "office",
+    "text": "Employee: Sir, I need a day off. My wife wants help cleaning the house.\nBoss: Sorry, we're too busy.\nEmployee: Thank you, sir. I knew I could count on you.",
+    "tags": [
+      "leave",
+      "boss",
+      "work"
+    ],
+    "popularity": 80,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0019",
+    "title": "A Good Day",
+    "language": "en",
+    "category": "office",
+    "text": "My boss told me to have a good day. So I went home.",
+    "tags": [
+      "boss",
+      "one-liner",
+      "work"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0020",
+    "title": "Work From Home Evolution",
+    "language": "en",
+    "category": "office",
+    "text": "Work from home, day 1: shirt, tie, proper desk.\nWork from home, day 30: pyjamas, bed, camera off, \"Sorry, I was on mute.\"",
+    "tags": [
+      "wfh",
+      "work",
+      "online"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0021",
+    "title": "The Meeting Chain",
+    "language": "en",
+    "category": "office",
+    "text": "This meeting could have been an email. That email could have been a message. That message could have been a nap.",
+    "tags": [
+      "meeting",
+      "work"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0022",
+    "title": "Important Day",
+    "language": "en",
+    "category": "husband-wife",
+    "text": "Wife: Do you know what day it is today?\nHusband (panicking): Of course!\nWife: Then tell me.\nHusband: The day I love you even more than yesterday.\nWife: It's garbage collection day. Take the bin out.",
+    "tags": [
+      "anniversary",
+      "couple"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0023",
+    "title": "Strange Start",
+    "language": "en",
+    "category": "husband-wife",
+    "text": "Wife: You never listen to me!\nHusband: That's a strange way to start a conversation.",
+    "tags": [
+      "couple",
+      "listening"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0024",
+    "title": "Big Decisions",
+    "language": "en",
+    "category": "husband-wife",
+    "text": "Husband: I make all the big decisions in this house.\nFriend: Really?\nHusband: Yes. Like what India should do about climate change. My wife makes the small ones, like where we live and what we eat.",
+    "tags": [
+      "couple",
+      "decisions"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0025",
+    "title": "Melt in Your Mouth",
+    "language": "en",
+    "category": "husband-wife",
+    "text": "Wife: I've made a dinner that will melt in your mouth.\nHusband: Wow! What is it?\nWife: Ice cream. I didn't feel like cooking.",
+    "tags": [
+      "dinner",
+      "couple",
+      "food"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0026",
+    "title": "Where You Left It",
+    "language": "en",
+    "category": "husband-wife",
+    "text": "Husband: Where's the TV remote?\nWife: Where you left it.\nHusband: So... lost forever?",
+    "tags": [
+      "remote",
+      "tv",
+      "couple"
+    ],
+    "popularity": 72,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0027",
+    "title": "Two Become One",
+    "language": "en",
+    "category": "marriage",
+    "text": "Marriage is when two people become one. The tricky part is deciding which one.",
+    "tags": [
+      "wedding",
+      "one-liner"
+    ],
+    "popularity": 77,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0028",
+    "title": "Moon and Stars",
+    "language": "en",
+    "category": "marriage",
+    "text": "Before marriage: \"I'll bring you the moon and the stars.\"\nAfter marriage: \"Who left the light on? Do you know what electricity costs?\"",
+    "tags": [
+      "wedding",
+      "bills"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0029",
+    "title": "Chill, I'm Worse",
+    "language": "en",
+    "category": "friendship",
+    "text": "A true friend knows all your secrets and still says, \"Relax, mine are worse.\"",
+    "tags": [
+      "friends",
+      "secrets"
+    ],
+    "popularity": 75,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0030",
+    "title": "Keeping Secrets",
+    "language": "en",
+    "category": "friendship",
+    "text": "Friend: Can you keep a secret?\nMe: Yes.\nFriend: So can I. Bye.",
+    "tags": [
+      "friends",
+      "secrets"
+    ],
+    "popularity": 69,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0031",
+    "title": "Leaving Home",
+    "language": "en",
+    "category": "friendship",
+    "text": "Friend: I'll text you when I leave home.\nTranslation: I haven't woken up yet.",
+    "tags": [
+      "friends",
+      "late"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0032",
+    "title": "Friend in Need",
+    "language": "en",
+    "category": "friendship",
+    "text": "A friend in need is a friend who needs your streaming password.",
+    "tags": [
+      "friends",
+      "password"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0033",
+    "title": "Feeling a Connection",
+    "language": "en",
+    "category": "love",
+    "text": "Are you a Wi-Fi signal? Because I'm feeling a connection. Please don't ask me for the password though.",
+    "tags": [
+      "wifi",
+      "romance"
+    ],
+    "popularity": 70,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0034",
+    "title": "Before 9 AM",
+    "language": "en",
+    "category": "love",
+    "text": "I love you more than coffee. Please don't ask me to prove it before 9 AM.",
+    "tags": [
+      "coffee",
+      "romance"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0035",
+    "title": "Anywhere Except Everywhere",
+    "language": "en",
+    "category": "girlfriend-boyfriend",
+    "text": "Boyfriend: Where do you want to eat?\nGirlfriend: Anywhere.\nBoyfriend: Pizza?\nGirlfriend: No.\nBoyfriend: Chinese?\nGirlfriend: No.\nBoyfriend: So anywhere except everywhere?",
+    "tags": [
+      "food",
+      "dating"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0036",
+    "title": "Are You Listening",
+    "language": "en",
+    "category": "girlfriend-boyfriend",
+    "text": "Girlfriend: Are you even listening to me?\nBoyfriend: Of course.\nGirlfriend: Then what did I just say?\nBoyfriend: \"Are you even listening to me?\"",
+    "tags": [
+      "dating",
+      "listening"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0037",
+    "title": "Three Words",
+    "language": "en",
+    "category": "girlfriend-boyfriend",
+    "text": "Girlfriend: Describe me in three words.\nBoyfriend: Beautiful, smart and... hungry again?",
+    "tags": [
+      "dating",
+      "food"
+    ],
+    "popularity": 73,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0038",
+    "title": "Family Group Chat",
+    "language": "en",
+    "category": "family",
+    "text": "My family group chat is 10% family news and 90% good morning images with roses.",
+    "tags": [
+      "whatsapp",
+      "group",
+      "family"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0039",
+    "title": "Organized Chaos",
+    "language": "en",
+    "category": "family",
+    "text": "Mom: Why is your room so messy?\nMe: It's not messy. It's organized chaos.\nMom: Then I'll organize your phone into my cupboard.",
+    "tags": [
+      "room",
+      "mom",
+      "phone"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0040",
+    "title": "Annoying Neighbours in Person",
+    "language": "en",
+    "category": "family",
+    "text": "Grandpa: In my day, we didn't have the internet.\nMe: Then what did you do?\nGrandpa: We had to annoy our neighbours in person.",
+    "tags": [
+      "grandpa",
+      "internet"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0041",
+    "title": "Total Hundred",
+    "language": "en",
+    "category": "father-son",
+    "text": "Son: Dad, I scored 100 today!\nDad: Wonderful! In which subject?\nSon: 40 in Maths, 30 in Science and 30 in English.",
+    "tags": [
+      "marks",
+      "dad",
+      "son"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0042",
+    "title": "Ten Hours a Day",
+    "language": "en",
+    "category": "father-son",
+    "text": "Dad: When I was your age, I studied ten hours a day.\nSon: Is that why you're so smart?\nDad: No, that's why I'm so tired.",
+    "tags": [
+      "dad",
+      "study"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0043",
+    "title": "The Bug in the Soup",
+    "language": "en",
+    "category": "father-son",
+    "text": "Son: Dad, are bugs good to eat?\nDad: Not at the dinner table, please.\nAfter dinner:\nDad: So, what did you want to ask?\nSon: Never mind. There was one in your soup, but it's gone now.",
+    "tags": [
+      "dad",
+      "dinner"
+    ],
+    "popularity": 79,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0044",
+    "title": "Processing Feelings",
+    "language": "en",
+    "category": "mother-son",
+    "text": "Mom: Why are you so quiet today?\nSon: The Wi-Fi is down, Mom. I'm processing my feelings.",
+    "tags": [
+      "wifi",
+      "mom"
+    ],
+    "popularity": 77,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0045",
+    "title": "Nobody Reaches Three",
+    "language": "en",
+    "category": "mother-son",
+    "text": "Mom: I'll count to three. One... two...\nSon: Mom, what happens at three?\nMom: I don't know. Nobody has ever reached it.",
+    "tags": [
+      "mom",
+      "counting"
+    ],
+    "popularity": 87,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0046",
+    "title": "Almost Started",
+    "language": "en",
+    "category": "mother-son",
+    "text": "Mom: Have you finished your homework?\nSon: Almost.\nMom: How much is left?\nSon: All of it. But I've almost started.",
+    "tags": [
+      "homework",
+      "mom"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0047",
+    "title": "What Do You Need",
+    "language": "en",
+    "category": "brother-sister",
+    "text": "Sister: Can you do me a favour?\nBrother: Depends. What's in it for me?\nSister: I won't tell Mom what you did yesterday.\nBrother: What do you need, my dearest sister?",
+    "tags": [
+      "siblings",
+      "favour"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0048",
+    "title": "Enemies at Home",
+    "language": "en",
+    "category": "brother-sister",
+    "text": "Siblings fight like enemies at home and defend each other like bodyguards outside.",
+    "tags": [
+      "siblings"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0049",
+    "title": "Samosa Thief",
+    "language": "en",
+    "category": "brother-sister",
+    "text": "Brother: Who ate my last samosa?\nSister: The samosa thief.\nBrother: And who is the samosa thief?\nSister: I don't reveal my sources.",
+    "tags": [
+      "samosa",
+      "siblings",
+      "food"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0050",
+    "title": "Ladder to School",
+    "language": "en",
+    "category": "school",
+    "text": "Why did the student bring a ladder to school? Because it was high school.",
+    "tags": [
+      "pun",
+      "school"
+    ],
+    "popularity": 66,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0051",
+    "title": "Imagined Too Far",
+    "language": "en",
+    "category": "school",
+    "text": "Principal: Why were you sleeping in class?\nStudent: The teacher said, \"Close your eyes and imagine the answer.\" I imagined too far.",
+    "tags": [
+      "sleep",
+      "class"
+    ],
+    "popularity": 75,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0052",
+    "title": "School Bag Growth",
+    "language": "en",
+    "category": "school",
+    "text": "School bag in Class 1: one notebook.\nSchool bag in Class 10: enough books to train for weightlifting.",
+    "tags": [
+      "bag",
+      "books"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0053",
+    "title": "Four Pages for One Answer",
+    "language": "en",
+    "category": "exam",
+    "text": "Question paper: 10 questions.\nMe: I know one answer.\nAlso me: writes it across four pages with diagrams.",
+    "tags": [
+      "exam",
+      "paper"
+    ],
+    "popularity": 89,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0054",
+    "title": "Exam Prayer",
+    "language": "en",
+    "category": "exam",
+    "text": "Student's prayer before the exam: \"God, I've done my part by not studying. Now you do yours.\"",
+    "tags": [
+      "exam",
+      "prayer"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0055",
+    "title": "Refer to Page 12",
+    "language": "en",
+    "category": "exam",
+    "text": "Examiner: Why did you write \"Refer to page 12\" as your answer?\nStudent: That's where the answer is in the textbook, sir.",
+    "tags": [
+      "exam",
+      "textbook"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0056",
+    "title": "Timetable Strategy",
+    "language": "en",
+    "category": "exam",
+    "text": "My exam preparation:\nDay 1: Make a timetable.\nDay 2: Decorate the timetable.\nDay 3: Exam.",
+    "tags": [
+      "exam",
+      "timetable",
+      "study"
+    ],
+    "popularity": 90,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0057",
+    "title": "Attendance Is a Crush",
+    "language": "en",
+    "category": "college",
+    "text": "Attendance is like a crush. You only care about it when it's too low.",
+    "tags": [
+      "attendance",
+      "college",
+      "crush"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0058",
+    "title": "Balanced Diet",
+    "language": "en",
+    "category": "college",
+    "text": "A hostel student's balanced diet: instant noodles in one hand, chai in the other.",
+    "tags": [
+      "hostel",
+      "food"
+    ],
+    "popularity": 72,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0059",
+    "title": "No Copy-Paste",
+    "language": "en",
+    "category": "college",
+    "text": "Professor: Why did you submit a blank assignment?\nStudent: You said no copy-paste, sir. So I didn't paste anything.",
+    "tags": [
+      "assignment",
+      "professor"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0060",
+    "title": "Why the Sky Is Blue",
+    "language": "en",
+    "category": "kids",
+    "text": "Kid: Dad, why is the sky blue?\nDad: Because it misses the sea.",
+    "tags": [
+      "sky",
+      "cute"
+    ],
+    "popularity": 64,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0061",
+    "title": "A Wrinkle per Why",
+    "language": "en",
+    "category": "kids",
+    "text": "Kid: Grandma, why do you have so many wrinkles?\nGrandma: Each one is from a time you asked me \"why\".",
+    "tags": [
+      "grandma",
+      "cute"
+    ],
+    "popularity": 73,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0062",
+    "title": "Dino-snore",
+    "language": "en",
+    "category": "kids",
+    "text": "What do you call a sleeping dinosaur? A dino-snore!",
+    "tags": [
+      "dinosaur",
+      "pun"
+    ],
+    "popularity": 71,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0063",
+    "title": "Sad Maths Book",
+    "language": "en",
+    "category": "kids",
+    "text": "Why did the maths book look sad? It had too many problems.",
+    "tags": [
+      "maths",
+      "pun"
+    ],
+    "popularity": 74,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0064",
+    "title": "Nacho Cheese",
+    "language": "en",
+    "category": "kids",
+    "text": "What do you call cheese that isn't yours? Nacho cheese!",
+    "tags": [
+      "cheese",
+      "pun"
+    ],
+    "popularity": 69,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0065",
+    "title": "Two-Tired Bicycle",
+    "language": "en",
+    "category": "kids",
+    "text": "Why can't a bicycle stand on its own? Because it's two-tired.",
+    "tags": [
+      "bicycle",
+      "pun"
+    ],
+    "popularity": 68,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0066",
+    "title": "Knock Knock Lettuce",
+    "language": "en",
+    "category": "kids",
+    "text": "Knock knock.\nWho's there?\nLettuce.\nLettuce who?\nLettuce in, it's cold out here!",
+    "tags": [
+      "knock-knock"
+    ],
+    "popularity": 70,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0067",
+    "title": "Knock Knock Boo",
+    "language": "en",
+    "category": "kids",
+    "text": "Knock knock.\nWho's there?\nBoo.\nBoo who?\nDon't cry, it's only a joke!",
+    "tags": [
+      "knock-knock"
+    ],
+    "popularity": 72,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0068",
+    "title": "Knock Knock Dosa",
+    "language": "en",
+    "category": "kids",
+    "text": "Knock knock.\nWho's there?\nDosa.\nDosa who?\nDosa-n't anybody want to let me in? I'm hungry!",
+    "tags": [
+      "knock-knock",
+      "dosa",
+      "food"
+    ],
+    "popularity": 75,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0069",
+    "title": "Afraid of the Mouse",
+    "language": "en",
+    "category": "animal",
+    "text": "Why don't elephants use computers? They're scared of the mouse.",
+    "tags": [
+      "elephant",
+      "computer"
+    ],
+    "popularity": 73,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0070",
+    "title": "Cat on the Laptop",
+    "language": "en",
+    "category": "animal",
+    "text": "Why does the cat always sit on the laptop? To keep an eye on the mouse.",
+    "tags": [
+      "cat",
+      "computer"
+    ],
+    "popularity": 70,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0071",
+    "title": "Great Listener",
+    "language": "en",
+    "category": "animal",
+    "text": "My dog is a great listener. He never interrupts. He just eats my homework when he disagrees.",
+    "tags": [
+      "dog",
+      "homework"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0072",
+    "title": "Pouch Potato",
+    "language": "en",
+    "category": "animal",
+    "text": "What do you call a lazy kangaroo? A pouch potato.",
+    "tags": [
+      "kangaroo",
+      "pun"
+    ],
+    "popularity": 71,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0073",
+    "title": "Chimp-ion",
+    "language": "en",
+    "category": "animal",
+    "text": "What do you call a monkey who wins every award? A chimp-ion.",
+    "tags": [
+      "monkey",
+      "pun"
+    ],
+    "popularity": 69,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0074",
+    "title": "Salty Fish",
+    "language": "en",
+    "category": "animal",
+    "text": "Why do fish live in salt water? Because pepper makes them sneeze.",
+    "tags": [
+      "fish",
+      "pun"
+    ],
+    "popularity": 67,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0075",
+    "title": "Commitment Issues",
+    "language": "en",
+    "category": "funny",
+    "text": "I told my plants I love them. Now they want commitment and a bigger pot.",
+    "tags": [
+      "plants"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0076",
+    "title": "Bed Arguments",
+    "language": "en",
+    "category": "funny",
+    "text": "I tried to be productive today, but my bed had better arguments.",
+    "tags": [
+      "lazy",
+      "bed"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0077",
+    "title": "Battery vs Motivation",
+    "language": "en",
+    "category": "funny",
+    "text": "My phone battery lasts longer than my motivation.",
+    "tags": [
+      "phone",
+      "motivation"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0078",
+    "title": "Seafood Diet",
+    "language": "en",
+    "category": "funny",
+    "text": "I'm on a seafood diet. I see food and I eat it.",
+    "tags": [
+      "food",
+      "diet",
+      "pun"
+    ],
+    "popularity": 78,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0079",
+    "title": "Realistic Abs",
+    "language": "en",
+    "category": "funny",
+    "text": "I asked the gym trainer how to get six-pack abs. He said, \"Stop eating junk.\" I said, \"Let's be realistic.\"",
+    "tags": [
+      "gym",
+      "food"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0080",
+    "title": "Neighbour's Wi-Fi",
+    "language": "en",
+    "category": "funny",
+    "text": "My neighbour's Wi-Fi is my best friend. We've never met, but it's always there for me.",
+    "tags": [
+      "wifi",
+      "neighbour"
+    ],
+    "popularity": 77,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0081",
+    "title": "2 AM Penguins",
+    "language": "en",
+    "category": "funny",
+    "text": "Me: I'm going to bed early tonight.\nAlso me at 2 AM: watching a video on how penguins sleep.",
+    "tags": [
+      "sleep",
+      "night",
+      "phone"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0082",
+    "title": "Smile While You Can",
+    "language": "en",
+    "category": "funny",
+    "text": "Life is short. Smile while you still have teeth.",
+    "tags": [
+      "smile",
+      "life"
+    ],
+    "popularity": 75,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0083",
+    "title": "Good Morning Workout",
+    "language": "en",
+    "category": "funny",
+    "text": "Forwarding good morning messages at 6 AM should count as a morning workout.",
+    "tags": [
+      "whatsapp",
+      "morning"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0084",
+    "title": "Energy-Saving Mode",
+    "language": "en",
+    "category": "one-liner",
+    "text": "I'm not lazy. I'm in energy-saving mode.",
+    "tags": [
+      "lazy"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0085",
+    "title": "Atoms Make Everything Up",
+    "language": "en",
+    "category": "one-liner",
+    "text": "Never trust atoms. They make up everything.",
+    "tags": [
+      "science",
+      "pun"
+    ],
+    "popularity": 79,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0086",
+    "title": "Construction Joke",
+    "language": "en",
+    "category": "one-liner",
+    "text": "I'd tell you a construction joke, but I'm still working on it.",
+    "tags": [
+      "pun"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0087",
+    "title": "Not on Speaking Terms",
+    "language": "en",
+    "category": "one-liner",
+    "text": "My alarm clock and I are no longer on speaking terms.",
+    "tags": [
+      "alarm",
+      "morning"
+    ],
+    "popularity": 74,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0088",
+    "title": "Anti-Gravity Book",
+    "language": "en",
+    "category": "one-liner",
+    "text": "I'm reading a book about anti-gravity. I can't put it down.",
+    "tags": [
+      "book",
+      "pun"
+    ],
+    "popularity": 81,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0089",
+    "title": "Parallel Lines",
+    "language": "en",
+    "category": "one-liner",
+    "text": "Parallel lines have so much in common. It's a shame they'll never meet.",
+    "tags": [
+      "maths",
+      "pun"
+    ],
+    "popularity": 78,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0090",
+    "title": "No Reaction",
+    "language": "en",
+    "category": "one-liner",
+    "text": "I told a chemistry joke once, but there was no reaction.",
+    "tags": [
+      "science",
+      "pun"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0091",
+    "title": "Fruit Flies",
+    "language": "en",
+    "category": "one-liner",
+    "text": "Time flies like an arrow. Fruit flies like a banana.",
+    "tags": [
+      "pun",
+      "wordplay"
+    ],
+    "popularity": 73,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0092",
+    "title": "Teleportation Book",
+    "language": "en",
+    "category": "one-liner",
+    "text": "I'm reading a book about teleportation. It's bound to take me places.",
+    "tags": [
+      "book",
+      "pun"
+    ],
+    "popularity": 72,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0093",
+    "title": "Days Ending in Y",
+    "language": "en",
+    "category": "one-liner",
+    "text": "My diet plan: eat less on days that end with \"y\".",
+    "tags": [
+      "diet",
+      "food"
+    ],
+    "popularity": 77,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0094",
+    "title": "Every Morning I Run",
+    "language": "en",
+    "category": "one-liner",
+    "text": "Every morning I run... late.",
+    "tags": [
+      "morning",
+      "late"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0095",
+    "title": "Cleaning the Cleaner",
+    "language": "en",
+    "category": "funny-questions",
+    "text": "If you clean a vacuum cleaner, do you become the vacuum cleaner?",
+    "tags": [
+      "cleaning",
+      "question"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0096",
+    "title": "Rush Hour",
+    "language": "en",
+    "category": "funny-questions",
+    "text": "Why is it called rush hour when nothing moves?",
+    "tags": [
+      "traffic",
+      "question"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0097",
+    "title": "Workstation",
+    "language": "en",
+    "category": "funny-questions",
+    "text": "If a train station is where trains stop, what is a workstation?",
+    "tags": [
+      "work",
+      "question",
+      "pun"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0098",
+    "title": "Parkway and Driveway",
+    "language": "en",
+    "category": "funny-questions",
+    "text": "Why do we drive on a parkway and park on a driveway?",
+    "tags": [
+      "wordplay",
+      "question"
+    ],
+    "popularity": 74,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0099",
+    "title": "Waiting for the Waiter",
+    "language": "en",
+    "category": "funny-questions",
+    "text": "If you're waiting for the waiter, doesn't that make you the waiter?",
+    "tags": [
+      "restaurant",
+      "question"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0100",
+    "title": "Saving Money",
+    "language": "en",
+    "category": "funny-answers",
+    "text": "Q: What's the best way to save money?\nA: Leave your wallet at home and forget your UPI PIN.",
+    "tags": [
+      "money",
+      "upi"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0101",
+    "title": "Free Time",
+    "language": "en",
+    "category": "funny-answers",
+    "text": "Q: What do you do in your free time?\nA: I think about what to do in my free time until it's over.",
+    "tags": [
+      "free-time"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0102",
+    "title": "Keys That Can't Open Locks",
+    "language": "en",
+    "category": "funny-answers",
+    "text": "Q: What has keys but can't open any lock?\nA: A piano.",
+    "tags": [
+      "riddle"
+    ],
+    "popularity": 72,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0103",
+    "title": "Five Years From Now",
+    "language": "en",
+    "category": "funny-answers",
+    "text": "Q: Where do you see yourself in five years?\nA: In a mirror, probably.",
+    "tags": [
+      "interview"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0104",
+    "title": "Always Tired",
+    "language": "en",
+    "category": "funny-answers",
+    "text": "Q: Why are you always tired?\nA: Being this awesome all day takes energy.",
+    "tags": [
+      "tired"
+    ],
+    "popularity": 70,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0105",
+    "title": "Five More Minutes, Indian Style",
+    "language": "en",
+    "category": "desi",
+    "text": "In India, \"I'm five minutes away\" is not a distance. It's a feeling.",
+    "tags": [
+      "late",
+      "indian"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0106",
+    "title": "Guest Biscuits",
+    "language": "en",
+    "category": "desi",
+    "text": "Every Indian home has two biscuit packets: one for guests and one you're not allowed to touch because it's also for guests.",
+    "tags": [
+      "guests",
+      "biscuits",
+      "indian"
+    ],
+    "popularity": 84,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0107",
+    "title": "Aunty's Question",
+    "language": "en",
+    "category": "desi-family",
+    "text": "Aunty: Beta, when are you getting married?\nMe: Aunty, when are you getting a new question?",
+    "tags": [
+      "aunty",
+      "marriage",
+      "relatives"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0108",
+    "title": "The Plastic Bag Bag",
+    "language": "en",
+    "category": "desi-family",
+    "text": "The most valuable thing in an Indian home: the plastic bag full of plastic bags.",
+    "tags": [
+      "indian",
+      "home"
+    ],
+    "popularity": 88,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0109",
+    "title": "Dad and the AC",
+    "language": "en",
+    "category": "desi-family",
+    "text": "Indian dad at 11 PM: \"Switch off the AC. Keep the fan on. It's the same thing.\"",
+    "tags": [
+      "dad",
+      "ac",
+      "electricity"
+    ],
+    "popularity": 85,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "id": "JM-EN-0110",
+    "title": "Seen at 2 AM",
+    "language": "en",
+    "category": "whatsapp",
+    "text": "Seen at 2:14 AM. Reply at 11 AM: \"Sorry, I was sleeping.\"",
+    "tags": [
+      "whatsapp",
+      "message"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  }
+]

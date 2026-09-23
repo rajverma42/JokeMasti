@@ -1,0 +1,67 @@
+[
+  {
+    "id": "JM-UR-0001",
+    "title": "سب سے لمبا دن",
+    "language": "ur",
+    "category": "teacher-student",
+    "text": "استاد: بتاؤ، سب سے لمبا دن کون سا ہوتا ہے؟\nشاگرد: امتحان سے ایک دن پہلے والا، سر۔",
+    "tags": [
+      "exam",
+      "school"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-UR-0002",
+    "title": "بیٹری کم ہو رہی ہے",
+    "language": "ur",
+    "category": "father-son",
+    "text": "ابو: بیٹا، موبائل کم استعمال کیا کرو۔\nبیٹا: جی ابو، ابھی تو صرف بیٹری ہی کم ہو رہی ہے۔",
+    "tags": [
+      "phone",
+      "dad"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-UR-0003",
+    "title": "اتوار کی نیند",
+    "language": "ur",
+    "category": "one-liner",
+    "text": "چائے ٹھنڈی ہو جائے تو دوبارہ گرم ہو جاتی ہے، مگر اتوار کی نیند دوبارہ نہیں آتی۔",
+    "tags": [
+      "tea",
+      "sunday",
+      "sleep"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-UR-0004",
+    "title": "دو منٹ میں پہنچ رہا ہوں",
+    "language": "ur",
+    "category": "friendship",
+    "text": "دوست: یار، دو منٹ میں پہنچ رہا ہوں۔\nمطلب: ابھی نہا رہا ہوں۔",
+    "tags": [
+      "friends",
+      "late"
+    ],
+    "popularity": 83,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]

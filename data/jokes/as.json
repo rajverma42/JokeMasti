@@ -1,0 +1,66 @@
+[
+  {
+    "id": "JM-AS-0001",
+    "title": "বৰষুণৰ অজুহাত",
+    "language": "as",
+    "category": "teacher-student",
+    "text": "শিক্ষক: তুমি পলমকৈ কিয় আহিলা?\nছাত্ৰ: ছাৰ, বৰষুণে মোক ঘৰতে ৰখাই ৰাখিছিল।",
+    "tags": [
+      "rain",
+      "late"
+    ],
+    "popularity": 76,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-AS-0002",
+    "title": "বাথৰুমৰ দখল",
+    "language": "as",
+    "category": "family",
+    "text": "ৰাতিপুৱা ঘৰৰ সকলোৱে এটা কথাত একমত — বাথৰুম প্ৰথমে মোৰ।",
+    "tags": [
+      "morning",
+      "bathroom"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-AS-0003",
+    "title": "চাহৰ অবিহনে",
+    "language": "as",
+    "category": "one-liner",
+    "text": "ৰাতিপুৱা চাহ নাখালে মোৰ মগজুৱে কেৱল \"লোডিং\" দেখুৱায়।",
+    "tags": [
+      "tea",
+      "morning"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-AS-0004",
+    "title": "হাতী আৰু পৰুৱা",
+    "language": "as",
+    "category": "animal",
+    "text": "হাতীয়ে পৰুৱাক সুধিলে: \"তই ইমান সৰু কিয়?\"\nপৰুৱাই ক'লে: \"অলপ অসুখ আছিল।\"",
+    "tags": [
+      "elephant",
+      "ant"
+    ],
+    "popularity": 78,
+    "source": "traditional",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]

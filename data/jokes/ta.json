@@ -1,0 +1,66 @@
+[
+  {
+    "id": "JM-TA-0001",
+    "title": "வீட்டுப்பாடம் வீட்டில்",
+    "language": "ta",
+    "category": "teacher-student",
+    "text": "ஆசிரியர்: வீட்டுப்பாடம் எங்கே?\nமாணவன்: சார், அது வீட்டிலேயே இருக்கிறது. அதனால்தானே அதற்கு வீட்டுப்பாடம் என்று பெயர்!",
+    "tags": [
+      "homework",
+      "pun"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-TA-0002",
+    "title": "கஷ்டமான பதில்கள்",
+    "language": "ta",
+    "category": "father-son",
+    "text": "அப்பா: ஏன் மார்க் குறைவு?\nமகன்: அப்பா, கேள்விகள் கஷ்டம். பதில்கள் அதைவிடக் கஷ்டம்.",
+    "tags": [
+      "marks",
+      "dad"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-TA-0003",
+    "title": "கனவில் நடை",
+    "language": "ta",
+    "category": "doctor-patient",
+    "text": "டாக்டர்: தினமும் நடக்க வேண்டும்.\nநோயாளி: டாக்டர், நான் தினமும் கனவில் நடக்கிறேன். போதுமா?",
+    "tags": [
+      "walk",
+      "dream"
+    ],
+    "popularity": 77,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-TA-0004",
+    "title": "காலை காபி",
+    "language": "ta",
+    "category": "one-liner",
+    "text": "காலை காபி இல்லாமல் நான் பேசுவதே இல்லை. குடித்த பிறகு நிறுத்துவதும் இல்லை.",
+    "tags": [
+      "coffee",
+      "morning"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "JM-KN-0001",
+    "title": "ಭೂಮಿಗೂ ಬೇಜಾರು",
+    "language": "kn",
+    "category": "teacher-student",
+    "text": "ಶಿಕ್ಷಕ: ಭೂಮಿ ಯಾಕೆ ತಿರುಗುತ್ತದೆ?\nವಿದ್ಯಾರ್ಥಿ: ಸರ್, ಅದಕ್ಕೂ ಒಂದೇ ಕಡೆ ಕೂತು ಬೇಜಾರಾಗುತ್ತೆ.",
+    "tags": [
+      "earth",
+      "science"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-KN-0002",
+    "title": "ಸ್ವಲ್ಪ ಮೊಸರನ್ನ",
+    "language": "kn",
+    "category": "mother-son",
+    "text": "ಅಮ್ಮ: ಊಟ ಆಯ್ತಾ?\nಮಗ: ಆಯ್ತು.\nಅಮ್ಮ: ಹಾಗಾದರೆ ಸ್ವಲ್ಪ ಮೊಸರನ್ನ ತಿನ್ನು.",
+    "tags": [
+      "mom",
+      "curd-rice"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-KN-0003",
+    "title": "ಬೆಂಗಳೂರು ಟ್ರಾಫಿಕ್",
+    "language": "kn",
+    "category": "office",
+    "text": "ಬೆಂಗಳೂರಿನ ಟ್ರಾಫಿಕ್‌ನಲ್ಲಿ ನಾವು ಆಫೀಸಿಗೆ ತಡವಾಗಿ ಹೋಗುವುದಿಲ್ಲ — ಮರುದಿನಕ್ಕೆ ಬೇಗ ತಲುಪುತ್ತೇವೆ.",
+    "tags": [
+      "traffic",
+      "bengaluru"
+    ],
+    "popularity": 86,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-KN-0004",
+    "title": "ಫಿಲ್ಟರ್ ಕಾಫಿ",
+    "language": "kn",
+    "category": "one-liner",
+    "text": "ಫಿಲ್ಟರ್ ಕಾಫಿ ಇಲ್ಲದ ಬೆಳಗ್ಗೆ, ಚಾರ್ಜ್ ಇಲ್ಲದ ಮೊಬೈಲ್ ಇದ್ದ ಹಾಗೆ.",
+    "tags": [
+      "coffee",
+      "morning"
+    ],
+    "popularity": 79,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]

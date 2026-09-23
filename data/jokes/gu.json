@@ -1,0 +1,66 @@
+[
+  {
+    "id": "JM-GU-0001",
+    "title": "અડધું લઈ જાઓ",
+    "language": "gu",
+    "category": "funny",
+    "text": "ગ્રાહક: ભાઈ, આ કેટલાનું છે?\nદુકાનદાર: ૧૦૦ રૂપિયા.\nગ્રાહક: ૫૦માં આપો.\nદુકાનદાર: તો અડધું જ લઈ જાઓ.",
+    "tags": [
+      "shopping",
+      "bargain"
+    ],
+    "popularity": 82,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-GU-0002",
+    "title": "જમ્યો પછી નાસ્તો",
+    "language": "gu",
+    "category": "mother-son",
+    "text": "મમ્મી: જમ્યો?\nદીકરો: હા, મમ્મી.\nમમ્મી: સારું, તો હવે થોડો નાસ્તો કરી લે.",
+    "tags": [
+      "mom",
+      "food"
+    ],
+    "popularity": 80,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-GU-0003",
+    "title": "સૌથી ઝડપી",
+    "language": "gu",
+    "category": "teacher-student",
+    "text": "શિક્ષક: દુનિયામાં સૌથી ઝડપી શું છે?\nવિદ્યાર્થી: વેકેશન, સાહેબ. આવે એવું જ જતું રહે.",
+    "tags": [
+      "vacation",
+      "school"
+    ],
+    "popularity": 81,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  },
+  {
+    "id": "JM-GU-0004",
+    "title": "ઢોકળાં અને વીકએન્ડ",
+    "language": "gu",
+    "category": "one-liner",
+    "text": "ઢોકળાં અને વીકએન્ડ — બંને બહુ જલ્દી પૂરાં થઈ જાય છે.",
+    "tags": [
+      "dhokla",
+      "weekend"
+    ],
+    "popularity": 78,
+    "source": "original",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "reviewStatus": "pending-native-review"
+  }
+]
